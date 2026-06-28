@@ -1,0 +1,1008 @@
+cid,mw_pc,smiles,connectivitysmiles,iupac,logp_pc
+101,122.12,C1=CC(=CC(=C1)O)C=O,C1=CC(=CC(=C1)O)C=O,3-hydroxybenzaldehyde,1.4
+107,150.17,C1=CC=C(C=C1)CCC(=O)O,C1=CC=C(C=C1)CCC(=O)O,3-phenylpropanoic acid,1.8
+126,122.12,C1=CC(=CC=C1C=O)O,C1=CC(=CC=C1C=O)O,4-hydroxybenzaldehyde,1.4
+129,100.16,CC(C)CCC=O,CC(C)CCC=O,4-methylpentanal,1.3
+177,44.05,CC=O,CC=O,acetaldehyde,-0.3
+180,58.08,CC(=O)C,CC(=O)C,propan-2-one,-0.1
+240,106.12,C1=CC=C(C=C1)C=O,C1=CC=C(C=C1)C=O,benzaldehyde,1.5
+243,122.12,C1=CC=C(C=C1)C(=O)O,C1=CC=C(C=C1)C(=O)O,benzoic acid,1.9
+261,72.11,CCCC=O,CCCC=O,butanal,0.9
+307,132.16,C1=CC=C(C=C1)C=CC=O,C1=CC=C(C=C1)C=CC=O,3-phenylprop-2-enal,1.9
+326,148.20,CC(C)C1=CC=C(C=C1)C=O,CC(C)C1=CC=C(C=C1)C=O,4-propan-2-ylbenzaldehyde,2.7
+527,58.08,CCC=O,CCC=O,propanal,0.6
+650,86.09,CC(=O)C(=O)C,CC(=O)C(=O)C,"butane-2,3-dione",-1.3
+756,60.05,C(C=O)O,C(C=O)O,2-hydroxyacetaldehyde,-0.9
+855,74.08,CC(C=O)O,CC(C=O)O,2-hydroxypropanal,-0.5
+880,72.06,CC(=O)C=O,CC(=O)C=O,2-oxopropanal,-0.4
+997,164.16,C1=CC=C(C=C1)CC(=O)C(=O)O,C1=CC=C(C=C1)CC(=O)C(=O)O,2-oxo-3-phenylpropanoic acid,1.3
+998,120.15,C1=CC=C(C=C1)CC=O,C1=CC=C(C=C1)CC=O,2-phenylacetaldehyde,1.8
+999,136.15,C1=CC=C(C=C1)CC(=O)O,C1=CC=C(C=C1)CC(=O)O,2-phenylacetic acid,1.4
+1112,102.09,C(CC(=O)O)C=O,C(CC(=O)O)C=O,4-oxobutanoic acid,-0.8
+1576,163.22,CC(C(=O)C1=CC=CC=C1)NC,CC(C(=O)C1=CC=CC=C1)NC,2-(methylamino)-1-phenylpropan-1-one,1.6
+1730,357.16,C1=CC(=CC=C1C(=O)O)[Hg]Cl,C1=CC(=CC=C1C(=O)O)[Hg]Cl,(4-carboxyphenyl)-chloromercury,
+2331,121.14,C1=CC=C(C=C1)C(=O)N,C1=CC=C(C=C1)C(=O)N,benzamide,0.6
+2345,212.24,C1=CC=C(C=C1)COC(=O)C2=CC=CC=C2,C1=CC=C(C=C1)COC(=O)C2=CC=CC=C2,benzyl benzoate,4.0
+2449,354.4,CC1=C(C(=O)C(=C(C1=O)C)C(CCCCCC(=O)O)C2=CC=CC=C2)C,CC1=C(C(=O)C(=C(C1=O)C)C(CCCCCC(=O)O)C2=CC=CC=C2)C,"7-phenyl-7-(2,4,5-trimethyl-3,6-dioxocyclohexa-1,4-dien-1-yl)heptanoic acid",4.4
+3102,182.22,C1=CC=C(C=C1)C(=O)C2=CC=CC=C2,C1=CC=C(C=C1)C(=O)C2=CC=CC=C2,diphenylmethanone,3.4
+3136,218.20,COC1=C(C(=O)C2=CC=CC=C2C1=O)OC,COC1=C(C(=O)C2=CC=CC=C2C1=O)OC,"2,3-dimethoxynaphthalene-1,4-dione",1.9
+3236,259.4,CCC1=CC=C(C=C1)C(=O)C(C)CN2CCCCC2,CCC1=CC=C(C=C1)C(=O)C(C)CN2CCCCC2,1-(4-ethylphenyl)-2-methyl-3-piperidin-1-ylpropan-1-one,3.8
+3335,254.28,C1=CC=C(C=C1)C2=CC=C(C=C2)C(=O)CCC(=O)O,C1=CC=C(C=C1)C2=CC=C(C=C2)C(=O)CCC(=O)O,4-oxo-4-(4-phenylphenyl)butanoic acid,3.2
+3485,100.12,C(CC=O)CC=O,C(CC=O)CC=O,pentanedial,-0.5
+3825,254.28,CC(C1=CC(=CC=C1)C(=O)C2=CC=CC=C2)C(=O)O,CC(C1=CC(=CC=C1)C(=O)C2=CC=CC=C2)C(=O)O,2-(3-benzoylphenyl)propanoic acid,3.1
+3848,166.17,C1=CC=C(C=C1)CC(C(=O)O)O,C1=CC=C(C=C1)CC(C(=O)O)O,2-hydroxy-3-phenylpropanoic acid,1.1
+3884,242.27,CC(=CCC1=C(C2=CC=CC=C2C(=O)C1=O)O)C,CC(=CCC1=C(C2=CC=CC=C2C(=O)C1=O)O)C,"4-hydroxy-3-(3-methylbut-2-enyl)naphthalene-1,2-dione",2.8
+4055,172.18,CC1=CC(=O)C2=CC=CC=C2C1=O,CC1=CC(=O)C2=CC=CC=C2C1=O,"2-methylnaphthalene-1,4-dione",2.2
+4760,222.24,C1=CC=C(C=C1)C2C(=O)C3=CC=CC=C3C2=O,C1=CC=C(C=C1)C2C(=O)C3=CC=CC=C3C2=O,"2-phenylindene-1,3-dione",2.9
+4775,164.20,C1=CC=C(C=C1)CCCC(=O)O,C1=CC=C(C=C1)CCCC(=O)O,4-phenylbutanoic acid,2.4
+4807,134.13,C1=CC=C(C(=C1)C=O)C=O,C1=CC=C(C(=C1)C=O)C=O,phthalaldehyde,1.2
+5258,186.18,C1=CC=C(C=C1)CCCC(=O)[O-].[Na+],C1=CC=C(C=C1)CCCC(=O)[O-].[Na+],sodium 4-phenylbutanoate,
+5511,245.36,CC1=CC=C(C=C1)C(=O)C(C)CN2CCCCC2,CC1=CC=C(C=C1)C(=O)C(C)CN2CCCCC2,2-methyl-1-(4-methylphenyl)-3-piperidin-1-ylpropan-1-one,3.4
+6184,100.16,CCCCCC=O,CCCCCC=O,hexanal,1.8
+6195,156.18,C1=CC=C2C(=C1)C=CC=C2C=O,C1=CC=C2C(=C1)C=CC=C2C=O,naphthalene-1-carbaldehyde,3.1
+6259,199.04,C1=CC=C(C=C1)C(=O)CBr,C1=CC=C(C=C1)C(=O)CBr,2-bromo-1-phenylethanone,2.5
+6416,100.16,CC(=O)C(C)(C)C,CC(=O)C(C)(C)C,"3,3-dimethylbutan-2-one",1.2
+6561,72.11,CC(C)C=O,CC(C)C=O,2-methylpropanal,0.8
+6569,72.11,CCC(=O)C,CCC(=O)C,butan-2-one,0.3
+6697,230.26,C1=CC=C2C(=C1)C3=CC=CC4=C3C(=CC=C4)C2=O,C1=CC=C2C(=C1)C3=CC=CC4=C3C(=CC=C4)C2=O,benzo[a]phenalen-7-one,4.3
+6719,340.4,C1=CC=C(C=C1)C(C2=CC=CC=C2)C(=O)C3C(=O)C4=CC=CC=C4C3=O,C1=CC=C(C=C1)C(C2=CC=CC=C2)C(=O)C3C(=O)C4=CC=CC=C4C3=O,"2-(2,2-diphenylacetyl)indene-1,3-dione",3.7
+6724,182.17,C1=CC2=C3C(=C1)C(=O)C(=O)C3=CC=C2,C1=CC2=C3C(=C1)C(=O)C(=O)C3=CC=C2,"acenaphthylene-1,2-dione",1.9
+6732,230.26,CC(C)(C)C(=O)C1C(=O)C2=CC=CC=C2C1=O,CC(C)(C)C(=O)C1C(=O)C2=CC=CC=C2C1=O,"2-(2,2-dimethylpropanoyl)indene-1,3-dione",2.7
+6733,230.26,CC(C)CC(=O)C1C(=O)C2=CC=CC=C2C1=O,CC(C)CC(=O)C1C(=O)C2=CC=CC=C2C1=O,"2-(3-methylbutanoyl)indene-1,3-dione",2.6
+6755,174.15,C1=CC=C2C(=C1)C(=CC(=O)C2=O)O,C1=CC=C2C(=C1)C(=CC(=O)C2=O)O,"4-hydroxynaphthalene-1,2-dione",0.9
+6763,208.21,C1=CC=C2C(=C1)C3=CC=CC=C3C(=O)C2=O,C1=CC=C2C(=C1)C3=CC=CC=C3C(=O)C2=O,"phenanthrene-9,10-dione",2.5
+6772,236.26,CCC1=CC2=C(C=C1)C(=O)C3=CC=CC=C3C2=O,CCC1=CC2=C(C=C1)C(=O)C3=CC=CC=C3C2=O,"2-ethylanthracene-9,10-dione",4.4
+6773,222.24,CC1=CC2=C(C=C1)C(=O)C3=CC=CC=C3C2=O,CC1=CC2=C(C=C1)C(=O)C3=CC=CC=C3C2=O,"2-methylanthracene-9,10-dione",3.9
+6780,208.21,C1=CC=C2C(=C1)C(=O)C3=CC=CC=C3C2=O,C1=CC=C2C(=C1)C(=O)C3=CC=CC=C3C2=O,"anthracene-9,10-dione",3.4
+6885,134.13,C1C2=CC=CC=C2C(=O)O1,C1C2=CC=CC=C2C(=O)O1,3H-2-benzofuran-1-one,0.8
+6956,164.16,C1=CC=C(C(=C1)C(=O)N)C(=O)N,C1=CC=C(C(=C1)C(=O)N)C(=O)N,"benzene-1,2-dicarboxamide",-1.7
+6985,148.20,CC1=CC(=C(C=C1)C(=O)C)C,CC1=CC(=C(C=C1)C(=O)C)C,"1-(2,4-dimethylphenyl)ethanone",2.3
+6996,140.56,C1=CC=C(C(=C1)C=O)Cl,C1=CC=C(C(=C1)C=O)Cl,2-chlorobenzaldehyde,2.3
+6998,122.12,C1=CC=C(C(=C1)C=O)O,C1=CC=C(C(=C1)C=O)O,2-hydroxybenzaldehyde,1.8
+7018,194.23,C1C2=CC=CC=C2C(=O)C3=CC=CC=C31,C1C2=CC=CC=C2C(=O)C3=CC=CC=C31,10H-anthracen-9-one,3.7
+7029,205.30,CCN(CC)C(C)C(=O)C1=CC=CC=C1,CCN(CC)C(C)C(=O)C1=CC=CC=C1,2-(diethylamino)-1-phenylpropan-1-one,2.8
+7034,251.10,C1=CC(=CC=C1C(=O)C2=CC=C(C=C2)Cl)Cl,C1=CC(=CC=C1C(=O)C2=CC=C(C=C2)Cl)Cl,bis(4-chlorophenyl)methanone,4.9
+7122,170.21,CC(=O)C1=CC2=CC=CC=C2C=C1,CC(=O)C1=CC2=CC=CC=C2C=C1,1-naphthalen-2-ylethanone,3.2
+7146,134.17,CC(C=O)C1=CC=CC=C1,CC(C=O)C1=CC=CC=C1,2-phenylpropanal,1.9
+7148,134.17,CCC(=O)C1=CC=CC=C1,CCC(=O)C1=CC=CC=C1,1-phenylpropan-1-one,2.2
+7150,136.15,COC(=O)C1=CC=CC=C1,COC(=O)C1=CC=CC=C1,methyl benzoate,2.1
+7165,150.17,CCOC(=O)C1=CC=CC=C1,CCOC(=O)C1=CC=CC=C1,ethyl benzoate,2.6
+7166,162.18,CC(=O)CC(=O)C1=CC=CC=C1,CC(=O)CC(=O)C1=CC=CC=C1,"1-phenylbutane-1,3-dione",1.6
+7170,192.21,CCOC(=O)CC(=O)C1=CC=CC=C1,CCOC(=O)CC(=O)C1=CC=CC=C1,ethyl 3-oxo-3-phenylpropanoate,1.9
+7187,242.23,C1=CC=C(C=C1)C(=O)OOC(=O)C2=CC=CC=C2,C1=CC=C(C=C1)C(=O)OOC(=O)C2=CC=CC=C2,benzoyl benzenecarboperoxoate,3.5
+7193,192.25,CC(C)CCOC(=O)C1=CC=CC=C1,CC(C)CCOC(=O)C1=CC=CC=C1,3-methylbutyl benzoate,3.8
+7194,226.27,C1=CC=C(C=C1)CCOC(=O)C2=CC=CC=C2,C1=CC=C(C=C1)CCOC(=O)C2=CC=CC=C2,2-phenylethyl benzoate,4.0
+7284,86.13,CCC(C)C=O,CCC(C)C=O,2-methylbutanal,1.1
+7288,86.13,CCC(=O)CC,CCC(=O)CC,pentan-3-one,0.9
+7359,100.16,CCC(CC)C=O,CCC(CC)C=O,2-ethylbutanal,1.5
+7410,120.15,CC(=O)C1=CC=CC=C1,CC(=O)C1=CC=CC=C1,1-phenylethanone,1.6
+7412,140.56,C1=CC=C(C=C1)C(=O)Cl,C1=CC=C(C=C1)C(=O)Cl,benzoyl chloride,2.9
+7414,138.19,C1=CC=C(C=C1)C(=O)S,C1=CC=C(C=C1)C(=O)S,benzenecarbothioic S-acid,2.4
+7418,136.15,CC1=CC(=CC=C1)C(=O)O,CC1=CC(=CC=C1)C(=O)O,3-methylbenzoic acid,2.4
+7451,203.02,C1=CC(=CC(=C1)C(=O)Cl)C(=O)Cl,C1=CC(=CC(=C1)C(=O)Cl)C(=O)Cl,"benzene-1,3-dicarbonyl chloride",3.6
+7454,277.94,C1=CC(=CC=C1C(=O)CBr)Br,C1=CC(=CC=C1C(=O)CBr)Br,2-bromo-1-(4-bromophenyl)ethanone,3.2
+7455,150.17,CC1=CC=C(C=C1)C(=O)OC,CC1=CC=C(C=C1)C(=O)OC,methyl 4-methylbenzoate,2.7
+7467,154.59,CC(=O)C1=CC=C(C=C1)Cl,CC(=O)C1=CC=C(C=C1)Cl,1-(4-chlorophenyl)ethanone,2.3
+7470,136.15,CC1=CC=C(C=C1)C(=O)O,CC1=CC=C(C=C1)C(=O)O,4-methylbenzoic acid,2.3
+7488,203.02,C1=CC(=CC=C1C(=O)Cl)C(=O)Cl,C1=CC(=CC=C1C(=O)Cl)C(=O)Cl,"benzene-1,4-dicarbonyl chloride",4.0
+7489,166.13,C1=CC(=CC=C1C(=O)O)C(=O)O,C1=CC(=CC=C1C(=O)O)C(=O)O,terephthalic acid,2.0
+7559,150.17,COC(=O)CC1=CC=CC=C1,COC(=O)CC1=CC=CC=C1,methyl 2-phenylacetate,1.8
+7590,164.20,CCOC(=O)CC1=CC=CC=C1,CCOC(=O)CC1=CC=CC=C1,ethyl 2-phenylacetate,2.3
+7593,210.27,C1=CC=C(C=C1)CC(=O)CC2=CC=CC=C2,C1=CC=C(C=C1)CC(=O)CC2=CC=CC=C2,"1,3-diphenylpropan-2-one",3.1
+7600,206.28,CC(C)CCOC(=O)CC1=CC=CC=C1,CC(C)CCOC(=O)CC1=CC=CC=C1,3-methylbutyl 2-phenylacetate,3.6
+7601,240.30,C1=CC=C(C=C1)CCOC(=O)CC2=CC=CC=C2,C1=CC=C(C=C1)CCOC(=O)CC2=CC=CC=C2,2-phenylethyl 2-phenylacetate,3.9
+7643,164.20,COC(=O)CCC1=CC=CC=C1,COC(=O)CCC1=CC=CC=C1,methyl 3-phenylpropanoate,2.3
+7678,134.17,CC(=O)CC1=CC=CC=C1,CC(=O)CC1=CC=CC=C1,1-phenylpropan-2-one,1.4
+7680,135.16,C1=CC=C(C=C1)CC(=O)N,C1=CC=C(C=C1)CC(=O)N,2-phenylacetamide,0.5
+7707,134.17,C1=CC=C(C=C1)CCC=O,C1=CC=C(C=C1)CCC=O,3-phenylpropanal,1.3
+7725,120.15,CC1=CC=C(C=C1)C=O,CC1=CC=C(C=C1)C=O,4-methylbenzaldehyde,2.1
+7726,140.56,C1=CC(=CC=C1C=O)Cl,C1=CC(=CC=C1C=O)Cl,4-chlorobenzaldehyde,2.1
+7860,58.04,C(=O)C=O,C(=O)C=O,oxaldehyde,-0.4
+7895,86.13,CCCC(=O)C,CCCC(=O)C,pentan-2-one,0.9
+8035,114.14,CC(=O)CCC(=O)C,CC(=O)CCC(=O)C,"hexane-2,5-dione",-0.3
+8063,86.13,CCCCC=O,CCCCC=O,pentanal,1.1
+8130,114.19,CCCCCCC=O,CCCCCCC=O,heptanal,2.3
+8342,227.04,C1=CC=C2C(=C1)C(=O)C(=C(C2=O)Cl)Cl,C1=CC=C2C(=C1)C(=O)C(=C(C2=O)Cl)Cl,"2,3-dichloronaphthalene-1,4-dione",3.4
+8373,136.15,CC1=CC=CC=C1C(=O)O,CC1=CC=CC=C1C(=O)O,2-methylbenzoic acid,2.5
+8400,212.24,C1=CC=C(C=C1)C(C(=O)C2=CC=CC=C2)O,C1=CC=C(C=C1)C(C(=O)C2=CC=CC=C2)O,"2-hydroxy-1,2-diphenylethanone",2.1
+8433,224.25,C1=CC=C(C=C1)C(=O)CC(=O)C2=CC=CC=C2,C1=CC=C(C=C1)C(=O)CC(=O)C2=CC=CC=C2,"1,3-diphenylpropane-1,3-dione",3.1
+8441,194.18,COC(=O)C1=CC=C(C=C1)C(=O)OC,COC(=O)C1=CC=C(C=C1)C(=O)OC,"dimethyl benzene-1,4-dicarboxylate",2.2
+8500,134.17,CC1=CC=C(C=C1)C(=O)C,CC1=CC=C(C=C1)C(=O)C,1-(4-methylphenyl)ethanone,2.1
+8501,175.01,C1=CC(=CC=C1C(=O)Cl)Cl,C1=CC(=CC=C1C(=O)Cl)Cl,4-chlorobenzoyl chloride,3.6
+8530,158.15,C1=CC=C2C(=O)C=CC(=O)C2=C1,C1=CC=C2C(=O)C=CC(=O)C2=C1,"naphthalene-1,4-dione",1.7
+8560,246.26,C=CCOC(=O)C1=CC=CC=C1C(=O)OCC=C,C=CCOC(=O)C1=CC=CC=C1C(=O)OCC=C,"bis(prop-2-enyl) benzene-1,2-dicarboxylate",3.2
+8651,210.23,C1=CC=C(C=C1)C(=O)C(=O)C2=CC=CC=C2,C1=CC=C(C=C1)C(=O)C(=O)C2=CC=CC=C2,"1,2-diphenylethane-1,2-dione",3.4
+8653,216.66,C1=CC=C(C=C1)C(=O)C2=CC=C(C=C2)Cl,C1=CC=C(C=C1)C(=O)C2=CC=C(C=C2)Cl,(4-chlorophenyl)-phenylmethanone,4.1
+8698,178.23,CCCCOC(=O)C1=CC=CC=C1,CCCCOC(=O)C1=CC=CC=C1,butyl benzoate,3.8
+9582,218.20,C1=CC(=CC=C1C(=O)C2=CC=C(C=C2)F)F,C1=CC(=CC=C1C(=O)C2=CC=C(C=C2)F)F,bis(4-fluorophenyl)methanone,3.8
+9688,184.19,C1=CC=C(C=C1)C2=CC(=O)C=CC2=O,C1=CC=C(C=C1)C2=CC(=O)C=CC2=O,"2-phenylcyclohexa-2,5-diene-1,4-dione",1.7
+9769,118.15,C(CCC=O)CCF,C(CCC=O)CCF,6-fluorohexanal,1.1
+9889,76.07,CC(=O)CF,CC(=O)CF,1-fluoropropan-2-one,0.3
+10236,178.14,C1=CC=C2C(=C1)C(=O)C(C2=O)(O)O,C1=CC=C2C(=C1)C(=O)C(C2=O)(O)O,"2,2-dihydroxyindene-1,3-dione",0.1
+10241,180.20,C1=CC=C2C(=C1)C3=CC=CC=C3C2=O,C1=CC=C2C(=C1)C3=CC=CC=C3C2=O,fluoren-9-one,3.6
+10254,148.20,CC1=CC(=C(C(=C1)C)C=O)C,CC1=CC(=C(C(=C1)C)C=O)C,"2,4,6-trimethylbenzaldehyde",2.5
+10313,137.14,C1=CC=C(C=C1)C(=O)NO,C1=CC=C(C=C1)C(=O)NO,N-hydroxybenzamide,0.3
+10315,148.20,CCCC(=O)C1=CC=CC=C1,CCCC(=O)C1=CC=CC=C1,1-phenylbutan-1-one,2.5
+10339,86.05,C(=O)C(=O)C=O,C(=O)C(=O)C=O,2-oxopropanedial,-0.5
+10667,158.15,C1=CC=C2C(=C1)C=CC(=O)C2=O,C1=CC=C2C(=C1)C=CC(=O)C2=O,"naphthalene-1,2-dione",1.5
+10722,120.15,CC1=CC=CC=C1C=O,CC1=CC=CC=C1C=O,2-methylbenzaldehyde,2.1
+10757,154.59,C1=CC=C(C=C1)C(=O)CCl,C1=CC=C(C=C1)C(=O)CCl,2-chloro-1-phenylethanone,2.3
+10964,72.06,C(C=O)C=O,C(C=O)C=O,propanedial,-0.6
+11050,180.20,C1=CC2=C3C(=C1)C=CC(=O)C3=CC=C2,C1=CC2=C3C(=C1)C=CC(=O)C3=CC=C2,phenalen-1-one,3.2
+11056,292.3,C1=CC=C(C=C1)C2=C(C(=O)C(=C(C2=O)O)C3=CC=CC=C3)O,C1=CC=C(C=C1)C2=C(C(=O)C(=C(C2=O)O)C3=CC=CC=C3)O,"2,5-dihydroxy-3,6-diphenylcyclohexa-2,5-diene-1,4-dione",3.0
+11251,86.13,CC(C)C(=O)C,CC(C)C(=O)C,3-methylbutan-2-one,0.8
+11340,134.17,CC1=CC=CC=C1C(=O)C,CC1=CC=CC=C1C(=O)C,1-(2-methylphenyl)ethanone,2.0
+11363,148.16,CC(=O)C(=O)C1=CC=CC=C1,CC(=O)C(=O)C1=CC=CC=C1,"1-phenylpropane-1,2-dione",1.7
+11509,100.16,CCCC(=O)CC,CCCC(=O)CC,hexan-3-one,1.2
+11552,86.13,CC(C)CC=O,CC(C)CC=O,3-methylbutanal,1.0
+11583,100.16,CCCCC(=O)C,CCCCC(=O)C,hexan-2-one,1.4
+11747,100.12,CCC(=O)C(=O)C,CCC(=O)C(=O)C,"pentane-2,3-dione",0.1
+11915,150.13,C1=CC=C(C=C1)C(=O)C(=O)O,C1=CC=C(C=C1)C(=O)C(=O)O,2-oxo-2-phenylacetic acid,1.3
+11966,194.23,CC(C)(C)OOC(=O)C1=CC=CC=C1,CC(C)(C)OOC(=O)C1=CC=CC=C1,tert-butyl benzenecarboperoxoate,2.8
+12085,248.02,C1=CC(=CC=C1C(=O)O)I,C1=CC(=CC=C1C(=O)O)I,4-iodobenzoic acid,3.0
+12086,150.17,CCC1=CC=C(C=C1)C(=O)O,CCC1=CC=C(C=C1)C(=O)O,4-ethylbenzoic acid,2.9
+12088,150.13,C1=CC(=CC=C1C=O)C(=O)O,C1=CC(=CC=C1C=O)C(=O)O,4-formylbenzoic acid,1.8
+12105,120.15,CC1=CC(=CC=C1)C=O,CC1=CC(=CC=C1)C=O,3-methylbenzaldehyde,2.0
+12179,100.12,CCC(=O)CC=O,CCC(=O)CC=O,3-oxopentanal,0.0
+12222,54.05,C#CC=O,C#CC=O,prop-2-ynal,0.2
+12417,86.13,CC(C)(C)C=O,CC(C)(C)C=O,"2,2-dimethylpropanal",1.1
+12524,86.09,C(CC=O)C=O,C(CC=O)C=O,butanedial,-0.9
+12578,162.23,CC(C)C1=CC=C(C=C1)C(=O)C,CC(C)C1=CC=C(C=C1)C(=O)C,1-(4-propan-2-ylphenyl)ethanone,3.0
+12740,132.18,C(CCCF)CCC=O,C(CCCF)CCC=O,7-fluoroheptanal,1.6
+12837,188.26,C1CCC(CC1)C(=O)C2=CC=CC=C2,C1CCC(CC1)C(=O)C2=CC=CC=C2,cyclohexyl(phenyl)methanone,3.7
+13654,164.20,CC(C)OC(=O)C1=CC=CC=C1,CC(C)OC(=O)C1=CC=CC=C1,propan-2-yl benzoate,3.2
+14090,134.13,C1=CC=C(C=C1)C(=O)C=O,C1=CC=C(C=C1)C(=O)C=O,2-oxo-2-phenylacetaldehyde,1.7
+14496,70.09,C1CC(=O)C1,C1CC(=O)C1,cyclobutanone,0.0
+15018,68.07,CC(=O)C#C,CC(=O)C#C,but-3-yn-2-one,0.4
+15387,263.35,CC1CCN(CC1)CCCC(=O)C2=CC=C(C=C2)F,CC1CCN(CC1)CCCC(=O)C2=CC=C(C=C2)F,1-(4-fluorophenyl)-4-(4-methylpiperidin-1-yl)butan-1-one,3.3
+15461,162.23,CC1=CC(=C(C(=C1)C)C(=O)C)C,CC1=CC(=C(C(=C1)C)C(=O)C)C,"1-(2,4,6-trimethylphenyl)ethanone",2.7
+15717,176.21,C=CCOC(=O)CC1=CC=CC=C1,C=CCOC(=O)CC1=CC=CC=C1,prop-2-enyl 2-phenylacetate,2.4
+15827,114.19,CC(C)CCCC=O,CC(C)CCCC=O,5-methylhexanal,1.9
+15909,146.19,CC(=O)C=CC1=CC=CC=C1,CC(=O)C=CC1=CC=CC=C1,4-phenylbut-3-en-2-one,2.1
+16237,178.23,CCOC(=O)CCC1=CC=CC=C1,CCOC(=O)CCC1=CC=CC=C1,ethyl 3-phenylpropanoate,2.7
+16757,178.23,C1=CC=C(C=C1)CCCCC(=O)O,C1=CC=C(C=C1)CCCCC(=O)O,5-phenylpentanoic acid,2.7
+16846,164.20,CCCOC(=O)C1=CC=CC=C1,CCCOC(=O)C1=CC=CC=C1,propyl benzoate,3.0
+16871,188.18,COC1=CC(=O)C2=CC=CC=C2C1=O,COC1=CC(=O)C2=CC=CC=C2C1=O,"2-methoxynaphthalene-1,4-dione",1.4
+17355,148.20,CC(=O)CCC1=CC=CC=C1,CC(=O)CCC1=CC=CC=C1,4-phenylbutan-2-one,1.8
+17748,207.61,C1=CC=C2C(=C1)C(=O)C(=C(C2=O)Cl)N,C1=CC=C2C(=C1)C(=O)C(=C(C2=O)Cl)N,"2-amino-3-chloronaphthalene-1,4-dione",2.1
+18771,296.3,C1=CC=C2C(=C1)C(=O)C3=C(C2=O)SC(=C(S3)C#N)C#N,C1=CC=C2C(=C1)C(=O)C3=C(C2=O)SC(=C(S3)C#N)C#N,"5,10-dioxobenzo[g][1,4]benzodithiine-2,3-dicarbonitrile",2.8
+19707,114.14,CCCC(=O)C(=O)C,CCCC(=O)C(=O)C,"hexane-2,3-dione",0.4
+20205,102.13,C(CCO)CC=O,C(CCO)CC=O,5-hydroxypentanal,-0.3
+20412,286.68,C(C=O)[Hg]CC=O,C(C=O)[Hg]CC=O,bis(2-oxoethyl)mercury,
+20861,134.17,CCC1=CC=C(C=C1)C=O,CCC1=CC=C(C=C1)C=O,4-ethylbenzaldehyde,2.4
+21265,190.24,CC(=CCOC(=O)C1=CC=CC=C1)C,CC(=CCOC(=O)C1=CC=CC=C1)C,3-methylbut-2-enyl benzoate,3.2
+23235,206.28,CCCCCCOC(=O)C1=CC=CC=C1,CCCCCCOC(=O)C1=CC=CC=C1,hexyl benzoate,4.9
+24115,114.14,CC(C)C(=O)C(=O)C,CC(C)C(=O)C(=O)C,"4-methylpentane-2,3-dione",0.6
+27357,84.07,C1C(=O)CC1=O,C1C(=O)CC1=O,"cyclobutane-1,3-dione",-0.1
+27523,100.16,CCC(C)CC=O,CCC(C)CC=O,3-methylpentanal,1.5
+31209,202.29,CCCCCC(=CC1=CC=CC=C1)C=O,CCCCCC(=CC1=CC=CC=C1)C=O,2-benzylideneheptanal,4.2
+31210,192.25,CCCCOC(=O)CC1=CC=CC=C1,CCCCOC(=O)CC1=CC=CC=C1,butyl 2-phenylacetate,3.2
+31245,100.16,CCCC(C)C=O,CCCC(C)C=O,2-methylpentanal,1.7
+31246,114.19,CCCC(=O)CCC,CCCC(=O)CCC,heptan-4-one,1.6
+31261,100.12,CC(=O)CC(=O)C,CC(=O)CC(=O)C,"pentane-2,4-dione",0.4
+31353,258.35,CC(=CCCC(C)(C=C)OC(=O)C1=CC=CC=C1)C,CC(=CCCC(C)(C=C)OC(=O)C1=CC=CC=C1)C,"3,7-dimethylocta-1,6-dien-3-yl benzoate",5.0
+34072,114.19,CC(C)CC(C)C=O,CC(C)CC(C)C=O,"2,4-dimethylpentanal",1.9
+60965,61.08,CC=O.N,CC=O.N,acetaldehyde;azane,
+60983,128.17,CCCCC(=O)C(=O)C,CCCCC(=O)C(=O)C,"heptane-2,3-dione",1.0
+60990,148.20,CC1=CC=C(C=C1)C(C)C=O,CC1=CC=C(C=C1)C(C)C=O,2-(4-methylphenyl)propanal,2.3
+60998,192.25,CC(C)COC(=O)CC1=CC=CC=C1,CC(C)COC(=O)CC1=CC=CC=C1,2-methylpropyl 2-phenylacetate,3.2
+61010,164.20,C1=CC=C(C=C1)CCCOC=O,C1=CC=C(C=C1)CCCOC=O,3-phenylpropyl formate,2.9
+61048,178.23,CC(C)COC(=O)C1=CC=CC=C1,CC(C)COC(=O)C1=CC=CC=C1,2-methylpropyl benzoate,3.6
+61050,248.36,CCCCCCCCOC(=O)CC1=CC=CC=C1,CCCCCCCCOC(=O)CC1=CC=CC=C1,octyl 2-phenylacetate,5.3
+61052,192.25,CCC(=O)OCCCC1=CC=CC=C1,CCC(=O)OCCCC1=CC=CC=C1,3-phenylpropyl propanoate,3.0
+61384,220.31,CCCCCC(=O)OCCC1=CC=CC=C1,CCCCCC(=O)OCCC1=CC=CC=C1,2-phenylethyl hexanoate,4.2
+61452,192.25,CCOC(=O)CCCC1=CC=CC=C1,CCOC(=O)CCCC1=CC=CC=C1,ethyl 4-phenylbutanoate,3.1
+61585,244.37,CC(=O)C1=C2CCC(C2=CC(=C1)C(C)(C)C)(C)C,CC(=O)C1=C2CCC(C2=CC(=C1)C(C)(C)C)(C)C,"1-(6-tert-butyl-1,1-dimethyl-2,3-dihydroinden-4-yl)ethanone",5.0
+61814,134.17,CC1=CC(=C(C=C1)C=O)C,CC1=CC(=C(C=C1)C=O)C,"2,4-dimethylbenzaldehyde",2.5
+61917,114.19,CCC(C)C(C)C=O,CCC(C)C(C)C=O,"2,3-dimethylpentanal",2.1
+62258,149.19,C[C@@H](C(=O)C1=CC=CC=C1)N,CC(C(=O)C1=CC=CC=C1)N,(2S)-2-amino-1-phenylpropan-1-one,1.1
+62539,114.14,CCC(=O)C(=O)CC,CCC(=O)C(=O)CC,"hexane-3,4-dione",0.5
+62553,178.23,CC(C)OC(=O)CC1=CC=CC=C1,CC(C)OC(=O)CC1=CC=CC=C1,propan-2-yl 2-phenylacetate,2.6
+62578,220.31,CC(C)CC(=O)OCCCC1=CC=CC=C1,CC(C)CC(=O)OCCCC1=CC=CC=C1,3-phenylpropyl 3-methylbutanoate,3.8
+65057,206.24,C1=CC=C(C=C1)C2=C(C2=O)C3=CC=CC=C3,C1=CC=C(C=C1)C2=C(C2=O)C3=CC=CC=C3,"2,3-diphenylcycloprop-2-en-1-one",3.3
+65564,98.02,C(=O)C(F)(F)F,C(=O)C(F)(F)F,"2,2,2-trifluoroacetaldehyde",0.8
+66093,162.23,CCCCC(=O)C1=CC=CC=C1,CCCCC(=O)C1=CC=CC=C1,1-phenylpentan-1-one,3.0
+67704,104.12,C(CCF)CC=O,C(CCF)CC=O,5-fluoropentanal,0.7
+67759,189.13,C1=CC=C(C(=C1)C(=O)N)C(F)(F)F,C1=CC=C(C(=C1)C(=O)N)C(F)(F)F,2-(trifluoromethyl)benzamide,0.7
+68035,90.10,CCCC(=O)F,CCCC(=O)F,butanoyl fluoride,1.1
+68043,90.10,C(CC=O)CF,C(CC=O)CF,4-fluorobutanal,0.4
+68303,233.49,C1=CC(=CC=C1C(=O)CBr)Cl,C1=CC(=CC=C1C(=O)CBr)Cl,2-bromo-1-(4-chlorophenyl)ethanone,3.1
+68942,240.23,C1=CC=C2C(=C1)C(=O)C(C2=O)C3=CC=C(C=C3)F,C1=CC=C2C(=C1)C(=O)C(C2=O)C3=CC=C(C=C3)F,"2-(4-fluorophenyl)indene-1,3-dione",3.0
+69491,142.20,C(CCCC=O)CCC=O,C(CCCC=O)CCC=O,octanedial,0.9
+70620,114.14,C(CCC=O)CC=O,C(CCC=O)CC=O,hexanedial,-0.2
+71872,177.24,CC(C(=O)C1=CC=CC=C1)N(C)C,CC(C(=O)C1=CC=CC=C1)N(C)C,2-(dimethylamino)-1-phenylpropan-1-one,2.1
+72909,173.17,C1=CC=C2C(=C1)C(=O)C=C(C2=O)N,C1=CC=C2C(=C1)C(=O)C=C(C2=O)N,"2-aminonaphthalene-1,4-dione",1.8
+73766,62.04,C(C=O)F,C(C=O)F,2-fluoroacetaldehyde,0.1
+73943,154.09,CC(=O)CC(=O)C(F)(F)F,CC(=O)CC(=O)C(F)(F)F,"1,1,1-trifluoropentane-2,4-dione",0.9
+74945,150.96,C(=O)C(C=O)Br,C(=O)C(C=O)Br,2-bromopropanedial,0.2
+75049,74.08,C(CO)C=O,C(CO)C=O,3-hydroxypropanal,-1.0
+76355,114.14,CCC(=O)CC(=O)C,CCC(=O)CC(=O)C,"hexane-2,4-dione",0.3
+76396,183.98,CC(=O)CI,CC(=O)CI,1-iodopropan-2-one,0.6
+79783,421.74,C(=O)C(I)(I)I,C(=O)C(I)(I)I,"2,2,2-triiodoacetaldehyde",1.8
+80473,114.14,CC(CC=O)CC=O,CC(CC=O)CC=O,3-methylpentanedial,-0.1
+81923,128.17,CCC(=O)CC(=O)CC,CCC(=O)CC(=O)CC,"heptane-3,5-dione",0.7
+81964,206.28,CCCCC(=O)OCCC1=CC=CC=C1,CCCCC(=O)OCCC1=CC=CC=C1,2-phenylethyl pentanoate,3.7
+83671,128.17,CCCC(=O)C(=O)CC,CCCC(=O)C(=O)CC,"heptane-3,4-dione",0.9
+83779,116.11,COC(=O)CCC=O,COC(=O)CCC=O,methyl 4-oxobutanoate,-0.5
+84292,114.19,CCCC(C)(C)C=O,CCCC(C)(C)C=O,"2,2-dimethylpentanal",2.0
+84325,142.07,C(=O)C(=O)C(=O)C(=O)C=O,C(=O)C(=O)C(=O)C(=O)C=O,"2,3,4-trioxopentanedial",-0.7
+86855,114.19,CC(C)C(C)CC=O,CC(C)C(C)CC=O,"3,4-dimethylpentanal",1.8
+87439,157.12,C1=CC(=C(C(=C1)F)C(=O)N)F,C1=CC(=C(C(=C1)F)C(=O)N)F,"2,6-difluorobenzamide",0.3
+89440,258.4,CC1CC(C2=C(C1(C)C)C=C(C(=C2)C(=O)C)C)(C)C,CC1CC(C2=C(C1(C)C)C=C(C(=C2)C(=O)C)C)(C)C,"1-(3,5,5,6,8,8-hexamethyl-6,7-dihydronaphthalen-2-yl)ethanone",5.3
+90727,114.19,CCCC(CC)C=O,CCCC(CC)C=O,2-ethylpentanal,2.0
+91427,114.14,CCC(CC=O)C=O,CCC(CC=O)C=O,2-ethylbutanedial,0.0
+91442,241.76,CCN(CC)C(C)C(=O)C1=CC=CC=C1.Cl,CCN(CC)C(C)C(=O)C1=CC=CC=C1.Cl,2-(diethylamino)-1-phenylpropan-1-one;hydrochloride,
+91563,74.08,COCC=O,COCC=O,2-methoxyacetaldehyde,-0.4
+92965,281.82,CC1=CC=C(C=C1)C(=O)C(C)CN2CCCCC2.Cl,CC1=CC=C(C=C1)C(=O)C(C)CN2CCCCC2.Cl,2-methyl-1-(4-methylphenyl)-3-piperidin-1-ylpropan-1-one;hydrochloride,
+93093,88.11,C(CC=O)CO,C(CC=O)CO,4-hydroxybutanal,-0.7
+94310,234.33,CCCCC(CC)COC(=O)C1=CC=CC=C1,CCCCC(CC)COC(=O)C1=CC=CC=C1,2-ethylhexyl benzoate,4.5
+95594,162.23,CC1=CC=C(C=C1)CC(C)C=O,CC1=CC=C(C=C1)CC(C)C=O,2-methyl-3-(4-methylphenyl)propanal,2.6
+96430,368.02,C1=CC(=CC=C1C(=O)C(=O)C2=CC=C(C=C2)Br)Br,C1=CC(=CC=C1C(=O)C(=O)C2=CC=C(C=C2)Br)Br,"1,2-bis(4-bromophenyl)ethane-1,2-dione",4.8
+98040,102.13,CC(CC=O)OC,CC(CC=O)OC,3-methoxybutanal,-0.1
+98735,86.09,CC(C=O)C=O,CC(C=O)C=O,2-methylpropanedial,-0.1
+101171,114.14,CC(CCC=O)C=O,CC(CCC=O)C=O,2-methylpentanedial,0.0
+102515,114.19,CCCCC(C)C=O,CCCCC(C)C=O,2-methylhexanal,2.2
+104428,128.17,C(CCC=O)CCC=O,C(CCC=O)CCC=O,heptanedial,0.3
+104745,73.07,CCC(=O)[O-],CCC(=O)[O-],propanoate,0.9
+110788,88.11,CC(C=O)OC,CC(C=O)OC,2-methoxypropanal,0.0
+116156,98.10,CC(=O)CC#CO,CC(=O)CC#CO,5-hydroxypent-4-yn-2-one,0.2
+123114,70.09,C1CC1C=O,C1CC1C=O,cyclopropanecarbaldehyde,0.2
+123124,48.08,[2H]C(=O)C([2H])([2H])[2H],CC=O,"1,2,2,2-tetradeuterioethanone",-0.3
+123208,45.06,[2H]C(=O)C,CC=O,1-deuterioethanone,-0.3
+123249,100.12,CCCC(=O)C=O,CCCC(=O)C=O,2-oxopentanal,0.4
+129652,158.24,CCCC(=O)C.CCC(=O)C,CCCC(=O)C.CCC(=O)C,butan-2-one;pentan-2-one,
+136703,114.10,CC(=O)C(=O)C(=O)C,CC(=O)C(=O)C(=O)C,"pentane-2,3,4-trione",-0.5
+136920,100.12,CC(C)(C=O)C=O,CC(C)(C=O)C=O,"2,2-dimethylpropanedial",0.3
+137151,96.13,CCC#CC(=O)C,CCC#CC(=O)C,hex-3-yn-2-one,1.4
+137720,88.11,COCCC=O,COCCC=O,3-methoxypropanal,-0.5
+138404,56.06,C1CC1=O,C1CC1=O,cyclopropanone,-0.3
+138889,102.13,CC(=O)CCOC,CC(=O)CCOC,4-methoxybutan-2-one,-0.3
+138979,82.10,CC#CC(=O)C,CC#CC(=O)C,pent-3-yn-2-one,0.9
+139192,96.13,CCC(=O)C#CC,CCC(=O)C#CC,hex-4-yn-3-one,1.4
+139982,57.07,CC[C]=O,CC[C]=O,,0.6
+140083,82.10,CCC(=O)C#C,CCC(=O)C#C,pent-1-yn-3-one,0.9
+140625,47.07,[2H]C([2H])([2H])C=O,CC=O,"2,2,2-trideuterioacetaldehyde",-0.3
+141261,110.15,CCCC#CC(=O)C,CCCC#CC(=O)C,hept-3-yn-2-one,1.9
+141281,82.10,CC(=O)CC#C,CC(=O)CC#C,pent-4-yn-2-one,0.2
+141585,198.00,CC(C(=O)C)I,CC(C(=O)C)I,3-iodobutan-2-one,1.2
+141827,84.07,C1CC(=O)C1=O,C1CC(=O)C1=O,"cyclobutane-1,2-dione",-0.8
+142755,114.14,CCCCC(=O)C=O,CCCCC(=O)C=O,2-oxohexanal,1.0
+142966,68.07,C#CCC=O,C#CCC=O,but-3-ynal,-0.1
+145744,86.09,CCC(=O)C=O,CCC(=O)C=O,2-oxobutanal,0.1
+145802,98.10,C1CC1C(=O)C=O,C1CC1C(=O)C=O,2-cyclopropyl-2-oxoacetaldehyde,0.1
+147646,106.51,C(=O)C(C=O)Cl,C(=O)C(C=O)Cl,2-chloropropanedial,0.1
+159214,89.07,CC(=O)CO[O],CC(=O)CO[O],,-0.7
+160142,282.4,CC(C)C1=CC2=C(C3=C(C=C2)C(CCC3)(C)C)C(=O)C1=O,CC(C)C1=CC2=C(C3=C(C=C2)C(CCC3)(C)C)C(=O)C1=O,"8,8-dimethyl-2-propan-2-yl-6,7-dihydro-5H-phenanthrene-3,4-dione",4.9
+162218,74.08,CC=O.C=O,CC=O.C=O,acetaldehyde;formaldehyde,
+164702,100.12,CC(=O)CCC=O,CC(=O)CCC=O,4-oxopentanal,-0.7
+165726,102.13,CCC(=O)C.C=O,CCC(=O)C.C=O,butan-2-one;formaldehyde,
+167535,99.03,[2H]C(=O)C(F)(F)F,C(=O)C(F)(F)F,"1-deuterio-2,2,2-trifluoroethanone",0.8
+167604,114.14,CC(C)CC(=O)C=O,CC(C)CC(=O)C=O,4-methyl-2-oxopentanal,0.9
+173004,132.17,CC(=O)C.[OH-].[OH-].[Ca+2],CC(=O)C.[OH-].[OH-].[Ca+2],calcium;propan-2-one;dihydroxide,
+173588,198.00,C(CC=O)CI,C(CC=O)CI,4-iodobutanal,1.3
+184830,114.14,CCC(C)C(=O)C=O,CCC(C)C(=O)C=O,3-methyl-2-oxopentanal,1.0
+196091,90.05,C(C(=O)C=O)F,C(C(=O)C=O)F,3-fluoro-2-oxopropanal,0.0
+219672,176.25,CC(C)CC(=O)CC1=CC=CC=C1,CC(C)CC(=O)CC1=CC=CC=C1,4-methyl-1-phenylpentan-2-one,2.7
+221417,234.33,CCCCCC(=O)OCCCC1=CC=CC=C1,CCCCCC(=O)OCCCC1=CC=CC=C1,3-phenylpropyl hexanoate,4.4
+221691,220.31,CCCCCCOC(=O)CC1=CC=CC=C1,CCCCCCOC(=O)CC1=CC=CC=C1,hexyl 2-phenylacetate,4.2
+228987,204.31,CC(CC1=CC=C(C=C1)C(C)(C)C)C=O,CC(CC1=CC=C(C=C1)C(C)(C)C)C=O,3-(4-tert-butylphenyl)-2-methylpropanal,3.9
+229888,248.36,CCCCCCCC(=O)OCCC1=CC=CC=C1,CCCCCCCC(=O)OCCC1=CC=CC=C1,2-phenylethyl octanoate,5.1
+238288,126.08,CCC(=O)C(F)(F)F,CCC(=O)C(F)(F)F,"1,1,1-trifluorobutan-2-one",1.5
+281254,178.23,COC(=O)CCCC1=CC=CC=C1,COC(=O)CCCC1=CC=CC=C1,methyl 4-phenylbutanoate,2.8
+283637,110.15,CCC#CC(=O)CC,CCC#CC(=O)CC,hept-4-yn-3-one,1.8
+349972,114.14,CC(C)(C)C(=O)C=O,CC(C)(C)C(=O)C=O,"3,3-dimethyl-2-oxobutanal",1.0
+355748,226.01,CC(=O)C(C(=O)C)I,CC(=O)C(C(=O)C)I,"3-iodopentane-2,4-dione",0.6
+422853,118.11,CC(=O)CC(=O)CF,CC(=O)CC(=O)CF,"1-fluoropentane-2,4-dione",0.2
+428947,279.09,C(C=O)[Hg]Cl,C(C=O)[Hg]Cl,chloro(2-oxoethyl)mercury,
+439231,74.08,C[C@@H](C=O)O,CC(C=O)O,(2S)-2-hydroxypropanal,-0.5
+439350,74.08,C[C@H](C=O)O,CC(C=O)O,(2R)-2-hydroxypropanal,-0.5
+439963,116.11,C(CC=O)CC(=O)O,C(CC=O)CC(=O)O,5-oxopentanoic acid,-0.5
+444539,148.16,C1=CC=C(C=C1)/C=C/C(=O)O,C1=CC=C(C=C1)C=CC(=O)O,(E)-3-phenylprop-2-enoic acid,2.1
+444718,166.17,C1=CC=C(C=C1)C[C@@H](C(=O)O)O,C1=CC=C(C=C1)CC(C(=O)O)O,(2S)-2-hydroxy-3-phenylpropanoic acid,1.1
+451245,57.08,C[11C](=O)C,CC(=O)C,(211C)propan-2-one,-0.1
+451253,57.08,CC(=O)[11CH3],CC(=O)C,(111C)propan-2-one,-0.1
+517055,144.10,C1=CC=C(C=C1)C(=O)[O-].[Na+],C1=CC=C(C=C1)C(=O)[O-].[Na+],sodium benzoate,
+517827,190.28,CC(C)C1=CC=C(C=C1)CC(C)C=O,CC(C)C1=CC=C(C=C1)CC(C)C=O,2-methyl-3-(4-propan-2-ylphenyl)propanal,3.3
+522220,64.12,[2H]C([2H])([2H])C(=O)C([2H])([2H])[2H],CC(=O)C,"1,1,1,3,3,3-hexadeuteriopropan-2-one",-0.1
+527447,118.20,CCC(CC=O)S,CCC(CC=O)S,3-sulfanylpentanal,0.9
+539001,126.08,CC(=O)CC(F)(F)F,CC(=O)CC(F)(F)F,"4,4,4-trifluorobutan-2-one",1.0
+544162,212.33,C(CCCCCC=O)CCCCCC=O,C(CCCCCC=O)CCCCCC=O,tridecanedial,3.6
+551778,100.07,C(=O)C(C=O)C=O,C(=O)C(C=O)C=O,methanetricarbaldehyde,-0.9
+554053,130.14,COC(=O)CCCC=O,COC(=O)CCCC=O,methyl 5-oxopentanoate,0.2
+555285,106.12,CCC(=O)C#CC#C,CCC(=O)C#CC#C,"hepta-4,6-diyn-3-one",1.3
+556051,106.12,CC#CC(=O)C#CC,CC#CC(=O)C#CC,"hepta-2,5-diyn-4-one",1.9
+561193,106.12,CC#CC#CC(=O)C,CC#CC#CC(=O)C,"hepta-3,5-diyn-2-one",1.3
+637511,132.16,C1=CC=C(C=C1)/C=C/C=O,C1=CC=C(C=C1)C=CC=O,(E)-3-phenylprop-2-enal,1.9
+637520,162.18,COC(=O)/C=C/C1=CC=CC=C1,COC(=O)C=CC1=CC=CC=C1,methyl (E)-3-phenylprop-2-enoate,2.6
+637758,176.21,CCOC(=O)/C=C/C1=CC=CC=C1,CCOC(=O)C=CC1=CC=CC=C1,ethyl (E)-3-phenylprop-2-enoate,3.0
+637759,146.19,CC(=O)/C=C/C1=CC=CC=C1,CC(=O)C=CC1=CC=CC=C1,(E)-4-phenylbut-3-en-2-one,2.1
+637760,208.25,C1=CC=C(C=C1)/C=C/C(=O)C2=CC=CC=C2,C1=CC=C(C=C1)C=CC(=O)C2=CC=CC=C2,"(E)-1,3-diphenylprop-2-en-1-one",3.1
+638120,90.10,C[C@H](C(=O)C)F,CC(C(=O)C)F,(3R)-3-fluorobutan-2-one,0.7
+640180,234.29,C1=CC=C(C=C1)/C=C/C(=O)/C=C/C2=CC=CC=C2,C1=CC=C(C=C1)C=CC(=O)C=CC2=CC=CC=C2,"(1E,4E)-1,5-diphenylpenta-1,4-dien-3-one",4.1
+641423,188.22,C=CCOC(=O)/C=C/C1=CC=CC=C1,C=CCOC(=O)C=CC1=CC=CC=C1,prop-2-enyl (E)-3-phenylprop-2-enoate,3.0
+642582,144.24,CC(=O)C(=O)[Si](C)(C)C,CC(=O)C(=O)[Si](C)(C)C,"1-trimethylsilylpropane-1,2-dione",
+643048,120.58,C(CCCl)CC=O,C(CCCl)CC=O,5-chloropentanal,1.0
+667550,254.28,C[C@@H](C1=CC(=CC=C1)C(=O)C2=CC=CC=C2)C(=O)O,CC(C1=CC(=CC=C1)C(=O)C2=CC=CC=C2)C(=O)O,(2S)-2-(3-benzoylphenyl)propanoic acid,3.1
+778574,204.26,CC(C)COC(=O)/C=C/C1=CC=CC=C1,CC(C)COC(=O)C=CC1=CC=CC=C1,2-methylpropyl (E)-3-phenylprop-2-enoate,4.0
+1550884,216.32,CCCCCC/C(=C\C1=CC=CC=C1)/C=O,CCCCCCC(=CC1=CC=CC=C1)C=O,(2E)-2-benzylideneoctanal,4.8
+1623625,202.29,CCCCC/C(=C\C1=CC=CC=C1)/C=O,CCCCCC(=CC1=CC=CC=C1)C=O,(2E)-2-benzylideneheptanal,4.2
+1712058,202.29,CCCCC/C(=C/C1=CC=CC=C1)/C=O,CCCCCC(=CC1=CC=CC=C1)C=O,(2Z)-2-benzylideneheptanal,4.2
+2774453,90.10,CC(C(=O)C)F,CC(C(=O)C)F,3-fluorobutan-2-one,0.7
+2777083,126.08,C(CC(F)(F)F)C=O,C(CC(F)(F)F)C=O,"4,4,4-trifluorobutanal",1.1
+2778488,136.10,CC(=O)CC(=O)C(F)F,CC(=O)CC(=O)C(F)F,"1,1-difluoropentane-2,4-dione",0.7
+2779024,126.03,C(=O)C(=O)C(F)(F)F,C(=O)C(=O)C(F)(F)F,"3,3,3-trifluoro-2-oxopropanal",0.7
+2781366,116.04,C(=O)C(F)(F)F.O,C(=O)C(F)(F)F.O,"2,2,2-trifluoroacetaldehyde;hydrate",
+3016005,151.00,C(CC=O)CBr,C(CC=O)CBr,4-bromobutanal,0.8
+3016433,170.25,C(CCCCC=O)CCCC=O,C(CCCCC=O)CCCC=O,decanedial,2.0
+3593277,101.08,CCC(=O)C(=O)[O-],CCC(=O)C(=O)[O-],2-oxobutanoate,0.8
+3614358,73.03,C(=O)C(=O)[O-],C(=O)C(=O)[O-],oxaldehydate,0.3
+3724921,114.19,CCC(C)(C)CC=O,CCC(C)(C)CC=O,"3,3-dimethylpentanal",1.9
+4409936,135.14,C1=CC=C(C=C1)CC(=O)[O-],C1=CC=C(C=C1)CC(=O)[O-],2-phenylacetate,2.1
+4451502,88.06,C(=O)C(C=O)O,C(=O)C(C=O)O,2-hydroxypropanedial,-1.2
+4621604,118.20,C(CCS)CC=O,C(CCS)CC=O,5-sulfanylpentanal,0.7
+4686860,86.09,CC(=O)CC=O,CC(=O)CC=O,3-oxobutanal,-0.4
+5221654,208.06,C(=O)C(C(C(C=O)(F)F)(F)F)(F)F,C(=O)C(C(C(C=O)(F)F)(F)F)(F)F,"2,2,3,3,4,4-hexafluoropentanedial",1.2
+5257795,749.2,C(=O)C([Hg]Cl)([Hg]Cl)[Hg]Cl,C(=O)C([Hg]Cl)([Hg]Cl)[Hg]Cl,"[1,1-bis(chloromercurio)-2-oxoethyl]-chloromercury",
+5280483,450.7,CC1=C(C(=O)C2=CC=CC=C2C1=O)C/C=C(\C)/CCCC(C)CCCC(C)CCCC(C)C,CC1=C(C(=O)C2=CC=CC=C2C1=O)CC=C(C)CCCC(C)CCCC(C)CCCC(C)C,"2-methyl-3-[(E)-3,7,11,15-tetramethylhexadec-2-enyl]naphthalene-1,4-dione",10.9
+5282367,444.6,CC1=C(C(=O)C2=CC=CC=C2C1=O)C/C=C(\C)/CC/C=C(\C)/CC/C=C(\C)/CCC=C(C)C,CC1=C(C(=O)C2=CC=CC=C2C1=O)CC=C(C)CCC=C(C)CCC=C(C)CCC=C(C)C,"2-methyl-3-[(2E,6E,10E)-3,7,11,15-tetramethylhexadeca-2,6,10,14-tetraenyl]naphthalene-1,4-dione",8.9
+5284607,450.7,CC1=C(C(=O)C2=CC=CC=C2C1=O)C/C=C(\C)/CCC[C@H](C)CCC[C@H](C)CCCC(C)C,CC1=C(C(=O)C2=CC=CC=C2C1=O)CC=C(C)CCCC(C)CCCC(C)CCCC(C)C,"2-methyl-3-[(E,7R,11R)-3,7,11,15-tetramethylhexadec-2-enyl]naphthalene-1,4-dione",10.9
+5287554,649.0,CC1=C(C(=O)C2=CC=CC=C2C1=O)C/C=C(\C)/CC/C=C(\C)/CC/C=C(\C)/CC/C=C(\C)/CC/C=C(\C)/CC/C=C(\C)/CCC=C(C)C,CC1=C(C(=O)C2=CC=CC=C2C1=O)CC=C(C)CCC=C(C)CCC=C(C)CCC=C(C)CCC=C(C)CCC=C(C)CCC=C(C)C,"2-[(2E,6E,10E,14E,18E,22E)-3,7,11,15,19,23,27-heptamethyloctacosa-2,6,10,14,18,22,26-heptaenyl]-3-methylnaphthalene-1,4-dione",14.5
+5323605,114.14,CCC(=O)CCC=O,CCC(=O)CCC=O,4-oxohexanal,-0.2
+5354896,146.19,C/C(=C/C1=CC=CC=C1)/C=O,CC(=CC1=CC=CC=C1)C=O,(Z)-2-methyl-3-phenylprop-2-enal,2.2
+5367706,204.26,CC/C=C\CCOC(=O)C1=CC=CC=C1,CCC=CCCOC(=O)C1=CC=CC=C1,[(Z)-hex-3-enyl] benzoate,4.0
+5371802,146.19,CC1=CC=C(C=C1)/C=C/C=O,CC1=CC=C(C=C1)C=CC=O,(E)-3-(4-methylphenyl)prop-2-enal,2.3
+5372813,146.19,C/C(=C\C1=CC=CC=C1)/C=O,CC(=CC1=CC=CC=C1)C=O,(E)-2-methyl-3-phenylprop-2-enal,2.2
+5460210,129.13,C(CCC(=O)[O-])CC=O,C(CCC(=O)[O-])CC=O,6-oxohexanoate,0.5
+5705112,238.28,C1=CC=C(C=C1)/C=C/COC(=O)C2=CC=CC=C2,C1=CC=C(C=C1)C=CCOC(=O)C2=CC=CC=C2,[(E)-3-phenylprop-2-enyl] benzoate,4.6
+5743459,198.30,C(CCCCCC=O)CCCCC=O,C(CCCCCC=O)CCCCC=O,dodecanedial,3.1
+6432319,57.07,CC(=O)[CH2],CC(=O)[CH2],,-0.1
+6440856,200.23,C1C=CC(=O)O[C@H]1/C=C/C2=CC=CC=C2,C1C=CC(=O)OC1C=CC2=CC=CC=C2,"(2R)-2-[(E)-2-phenylethenyl]-2,3-dihydropyran-6-one",2.9
+6455957,105.14,CC(=O)C.C=O.N,CC(=O)C.C=O.N,azane;formaldehyde;propan-2-one,
+6912034,59.09,[2H]CC(=O)C,CC(=O)C,1-deuteriopropan-2-one,-0.1
+6971248,86.13,CC[C@@H](C)C=O,CCC(C)C=O,(2R)-2-methylbutanal,1.1
+6971249,86.13,CC[C@H](C)C=O,CCC(C)C=O,(2S)-2-methylbutanal,1.1
+6994104,100.16,CCC[C@@H](C)C=O,CCCC(C)C=O,(2R)-2-methylpentanal,1.7
+6994455,114.19,CC[C@@H](C)[C@@H](C)C=O,CCC(C)C(C)C=O,"(2R,3R)-2,3-dimethylpentanal",2.1
+6994456,114.19,CC[C@H](C)[C@@H](C)C=O,CCC(C)C(C)C=O,"(2R,3S)-2,3-dimethylpentanal",2.1
+6994457,114.19,CC[C@@H](C)[C@H](C)C=O,CCC(C)C(C)C=O,"(2S,3R)-2,3-dimethylpentanal",2.1
+6999050,100.16,CCC[C@H](C)C=O,CCCC(C)C=O,(2S)-2-methylpentanal,1.7
+9543142,87.05,C(C=O)C(=O)[O-],C(C=O)C(=O)[O-],3-oxopropanoate,0.1
+9543238,101.08,C(CC(=O)[O-])C=O,C(CC(=O)[O-])C=O,4-oxobutanoate,-0.2
+9548601,115.11,C(CC=O)CC(=O)[O-],C(CC=O)CC(=O)[O-],5-oxopentanoate,0.2
+9794344,212.03,C(CCI)CC=O,C(CCI)CC=O,5-iodopentanal,2.0
+9859191,214.19,CC(=O)C(=O)[O-].CC(=O)C(=O)[O-].[Ca+2],CC(=O)C(=O)[O-].CC(=O)C(=O)[O-].[Ca+2],calcium bis(2-oxopropanoate),
+9859442,231.03,CC(=O)CC(=O)C.[C-]#[O+].[Rh],CC(=O)CC(=O)C.[C-]#[O+].[Rh],"carbon monoxide;pentane-2,4-dione;rhodium",
+9898802,96.13,C#CCCCC=O,C#CCCCC=O,hex-5-ynal,0.6
+9903281,259.04,CC(=O)CC(=O)C.[C-]#[O+].[C-]#[O+].[Rh],CC(=O)CC(=O)C.[C-]#[O+].[C-]#[O+].[Rh],"carbon monoxide;pentane-2,4-dione;rhodium",
+9942119,80.03,C(=O)C(F)F,C(=O)C(F)F,"2,2-difluoroacetaldehyde",0.6
+10219603,169.95,C(C=O)I,C(C=O)I,2-iodoacetaldehyde,0.4
+10219827,198.41,CC(=O)C(=O)[O-].CC(=O)C(=O)[O-].[Mg+2],CC(=O)C(=O)[O-].CC(=O)C(=O)[O-].[Mg+2],magnesium bis(2-oxopropanoate),
+10241132,165.03,C(CCBr)CC=O,C(CCBr)CC=O,5-bromopentanal,1.1
+10307849,84.12,C1CC1CC=O,C1CC1CC=O,2-cyclopropylacetaldehyde,0.8
+10464312,106.08,C(=O)C#CC#CC=O,C(=O)C#CC#CC=O,"hexa-2,4-diynedial",0.4
+10725875,172.30,C[Si](C)(C)C(=O)CCCC=O,C[Si](C)(C)C(=O)CCCC=O,5-oxo-5-trimethylsilylpentanal,
+10855723,156.22,C(CCCC=O)CCCC=O,C(CCCC=O)CCCC=O,nonanedial,1.4
+10859654,303.49,CC(=O)C(C(=O)C)[Tl],CC(=O)C(C(=O)C)[Tl],"2,4-dioxopentan-3-ylthallium",
+10891676,293.11,CC(=O)C[Hg]Cl,CC(=O)C[Hg]Cl,chloro(2-oxopropyl)mercury,
+10921089,179.05,C(CCC=O)CCBr,C(CCC=O)CCBr,6-bromohexanal,1.5
+10931453,128.49,C(=O)[C-](C=O)Cl.[Na+],C(=O)[C-](C=O)Cl.[Na+],sodium 2-chloropropanedial,
+10942333,46.038,[13CH3][13CH]=O,CC=O,acetaldehyde,-0.3
+10953466,114.14,CC(=O)CCCC=O,CC(=O)CCCC=O,5-oxohexanal,-0.3
+10953880,164.99,CC(=O)C(=O)CBr,CC(=O)C(=O)CBr,"1-bromobutane-2,3-dione",0.4
+10975455,114.19,CCCC[C@H](C)C=O,CCCCC(C)C=O,(2S)-2-methylhexanal,2.2
+10996971,100.12,CC(CC=O)C=O,CC(CC=O)C=O,2-methylbutanedial,-0.3
+11007810,59.07,C[13C](=O)C,CC(=O)C,(213C)propan-2-one,-0.1
+11007917,128.17,CC(=O)CCCCC=O,CC(=O)CCCCC=O,6-oxoheptanal,0.0
+11040651,110.15,CC#CCCCC=O,CC#CCCCC=O,hept-5-ynal,1.1
+11040691,122.10,CC(=O)[CH-]C(=O)C.[Na+],CC(=O)[CH-]C(=O)C.[Na+],"sodium pentane-2,4-dione",
+11051586,100.12,CC(C=O)C(=O)C,CC(C=O)C(=O)C,2-methyl-3-oxobutanal,0.1
+11062343,114.19,CC(C)(C)CCC=O,CC(C)(C)CCC=O,"4,4-dimethylpentanal",1.7
+11096977,250.1,CC(CC=O)[Ge](Cl)(Cl)Cl,CC(CC=O)[Ge](Cl)(Cl)Cl,3-trichlorogermylbutanal,
+11116082,128.17,CC(C)(CC=O)CC=O,CC(C)(CC=O)CC=O,"3,3-dimethylpentanedial",0.3
+11126172,60.07,C[14C](=O)C,CC(=O)C,(214C)propan-2-one,-0.1
+11137279,144.17,CCOC(=O)CCCC=O,CCOC(=O)CCCC=O,ethyl 5-oxopentanoate,0.2
+11148955,231.33,CCCC(C(=O)C1=CC=CC=C1)N2CCCC2,CCCC(C(=O)C1=CC=CC=C1)N2CCCC2,1-phenyl-2-pyrrolidin-1-ylpentan-1-one,3.4
+11240423,76.07,CC(C=O)F,CC(C=O)F,2-fluoropropanal,0.5
+11334294,254.41,C(CCCCCCCC=O)CCCCCCC=O,C(CCCCCCCC=O)CCCCCCC=O,hexadecanedial,5.2
+11355455,110.15,C#CCCCCC=O,C#CCCCCC=O,hept-6-ynal,1.1
+11378470,114.19,CCCC[C@@H](C)C=O,CCCCC(C)C=O,(2R)-2-methylhexanal,2.2
+11412356,110.11,CC(=O)C#CC(=O)C,CC(=O)C#CC(=O)C,"hex-3-yne-2,5-dione",0.5
+11434906,45.06,[2H]CC=O,CC=O,2-deuterioacetaldehyde,-0.3
+11434908,61.057,[13CH3][13C](=O)[13CH3],CC(=O)C,"(1,2,3-13C3)propan-2-one",-0.1
+11434915,98.10,C1C(C1C=O)C=O,C1C(C1C=O)C=O,"cyclopropane-1,2-dicarbaldehyde",-0.7
+11449864,314.73,CC(=O)C[Hg]CC(=O)C,CC(=O)C[Hg]CC(=O)C,bis(2-oxopropyl)mercury,
+11603089,82.06,C(=O)C#CC=O,C(=O)C#CC=O,but-2-ynedial,0.0
+11615163,124.18,CCCC#CC(=O)CC,CCCC#CC(=O)CC,oct-4-yn-3-one,2.4
+11626652,118.11,CC(=O)C(C(=O)C)F,CC(=O)C(C(=O)C)F,"3-fluoropentane-2,4-dione",0.3
+11636788,60.08,CC(=[18O])C,CC(=O)C,propan-2-(18O)one,-0.1
+11768544,114.14,CC(=O)C(C)(C)C=O,CC(=O)C(C)(C)C=O,"2,2-dimethyl-3-oxobutanal",0.5
+11788284,114.19,CCC(CC)CC=O,CCC(CC)CC=O,3-ethylpentanal,2.1
+11804674,82.10,C#CCCC=O,C#CCCC=O,pent-4-ynal,0.2
+11815385,130.17,CC(=O)C(=S)C(=O)C,CC(=O)C(=S)C(=O)C,"3-sulfanylidenepentane-2,4-dione",0.1
+11816666,212.03,CCC(=O)C(C)I,CCC(=O)C(C)I,2-iodopentan-3-one,1.7
+11953960,368.4,COC(=O)/C(=C\O)/[C@@H](C[C@H]1C2=C(CCN1)C3=CC=CC=C3N2)[C@@H](C=C)C=O,COC(=O)C(=CO)C(CC1C2=C(CCN1)C3=CC=CC=C3N2)C(C=C)C=O,"methyl (2Z,3S,4R)-4-formyl-2-(hydroxymethylidene)-3-[[(1S)-2,3,4,9-tetrahydro-1H-pyrido[3,4-b]indol-1-yl]methyl]hex-5-enoate",2.5
+12006902,91.16,[2H]C([2H])([2H])C(=O)C([2H])([2H])CC,CCCC(=O)C,"1,1,1,3,3-pentadeuteriopentan-2-one",0.9
+12039955,104.08,CC(=O)C(C=O)F,CC(=O)C(C=O)F,2-fluoro-3-oxobutanal,0.1
+12069270,117.20,[2H]C([2H])([2H])CCCCCC=O,CCCCCCC=O,"7,7,7-trideuterioheptanal",2.3
+12161641,45.045,C[13CH]=O,CC=O,acetaldehyde,-0.3
+12196717,108.16,[2H]C([2H])([2H])C(=O)C([2H])([2H])C(=O)C([2H])([2H])[2H],CC(=O)CC(=O)C,"1,1,1,3,3,5,5,5-octadeuteriopentane-2,4-dione",0.4
+12197630,92.13,[2H]C([2H])([2H])C(=O)C(=O)C([2H])([2H])[2H],CC(=O)C(=O)C,"1,1,1,4,4,4-hexadeuteriobutane-2,3-dione",-1.3
+12198038,45.045,[13CH3]C=O,CC=O,acetaldehyde,-0.3
+12198039,46.06,[2H]CC(=O)[2H],CC=O,"1,2-dideuterioethanone",-0.3
+12198040,46.06,[2H]C([2H])C=O,CC=O,"2,2-dideuterioacetaldehyde",-0.3
+12198041,45.05,CC=[17O],CC=O,acetaldehyde,-0.3
+12198042,48.038,[14CH3][14CH]=O,CC=O,acetaldehyde,-0.3
+12198043,46.045,C[14CH]=O,CC=O,acetaldehyde,-0.3
+12198205,74.12,[2H]C([2H])(CC)C=O,CCCC=O,"2,2-dideuteriobutanal",0.9
+12198207,75.12,[2H]C([2H])([2H])CCC=O,CCCC=O,"4,4,4-trideuteriobutanal",0.9
+12198209,74.12,[2H]C([2H])(C)CC=O,CCCC=O,"3,3-dideuteriobutanal",0.9
+12198210,80.15,[2H]C(=O)C([2H])([2H])C([2H])([2H])C([2H])([2H])[2H],CCCC=O,"1,2,2,3,3,4,4,4-octadeuteriobutan-1-one",0.9
+12198513,87.12,CC(C)C[13CH]=O,CC(C)CC=O,3-methyl(113C)butanal,1.0
+12200355,108.57,CCC(=O)C.Cl,CCC(=O)C.Cl,butan-2-one;hydrochloride,
+12200359,75.12,[2H]C([2H])([2H])CC(=O)C,CCC(=O)C,"4,4,4-trideuteriobutan-2-one",0.3
+12201206,73.11,[2H]C(C)(C)C=O,CC(C)C=O,2-deuterio-2-methylpropanal,0.8
+12201346,60.09,[2H]C([2H])(C)C=O,CCC=O,"2,2-dideuteriopropanal",0.6
+12201347,59.09,[2H]C(C)C=O,CCC=O,2-deuteriopropanal,0.6
+12201349,59.09,[2H]C(=O)CC,CCC=O,1-deuteriopropan-1-one,0.6
+12201350,60.09,[2H]CCC(=O)[2H],CCC=O,"1,3-dideuteriopropan-1-one",0.6
+12203605,124.20,[2H]C([2H])([2H])C(=O)C([2H])([2H])C([2H])([2H])C(=O)C([2H])([2H])[2H],CC(=O)CCC(=O)C,"1,1,1,3,3,4,4,6,6,6-decadeuteriohexane-2,5-dione",-0.3
+12207194,101.16,[2H]C(=O)CCCCC,CCCCCC=O,1-deuteriohexan-1-one,1.8
+12214490,87.14,[2H]C(C)C(=O)CC,CCC(=O)CC,2-deuteriopentan-3-one,0.9
+12215931,60.05,[2H]C(=O)C(=O)[2H],C(=O)C=O,"1,2-dideuterioethane-1,2-dione",-0.4
+12215932,94.07,C(=O)C=O.O.O,C(=O)C=O.O.O,oxaldehyde;dihydrate,
+12217224,87.14,[2H]C(CCC)C=O,CCCCC=O,2-deuteriopentanal,1.1
+12336936,104.08,CC(=O)CC(=O)F,CC(=O)CC(=O)F,3-oxobutanoyl fluoride,0.1
+12431621,84.12,C1CC(C1)C=O,C1CC(C1)C=O,cyclobutanecarbaldehyde,0.7
+12452734,151.00,CC(=O)CCBr,CC(=O)CCBr,4-bromobutan-2-one,0.6
+12477205,100.16,CC[C@H](C)CC=O,CCC(C)CC=O,(3S)-3-methylpentanal,1.5
+12477208,100.16,CC[C@@H](C)CC=O,CCC(C)CC=O,(3R)-3-methylpentanal,1.5
+12484446,144.17,CCOC(CC=O)CC=O,CCOC(CC=O)CC=O,3-ethoxypentanedial,-0.6
+12507094,71.10,CC(C)[C+]=O,CC(C)[C+]=O,2-methylpropan-1-one,0.8
+12531590,104.12,CC(=O)C(C)(C)F,CC(=O)C(C)(C)F,3-fluoro-3-methylbutan-2-one,0.9
+12531594,90.10,CC(C)(C=O)F,CC(C)(C=O)F,2-fluoro-2-methylpropanal,0.7
+12537305,198.00,CCC(C=O)I,CCC(C=O)I,2-iodobutanal,1.3
+12538120,128.17,CCC(=O)CCCC=O,CCC(=O)CCCC=O,5-oxoheptanal,0.1
+12543514,45.06,CC=[OH+],CC=[OH+],ethylideneoxidanium,-0.3
+12543519,59.09,CC(=[OH+])C,CC(=[OH+])C,propan-2-ylideneoxidanium,-0.1
+12545125,90.10,CCC(=O)CF,CCC(=O)CF,1-fluorobutan-2-one,0.8
+12545134,215.99,CCC(=O)C(F)I,CCC(=O)C(F)I,1-fluoro-1-iodobutan-2-one,1.6
+12550982,92.48,C(=O)C(=O)Cl,C(=O)C(=O)Cl,2-oxoacetyl chloride,0.7
+12575733,128.17,CCC(CCC=O)C=O,CCC(CCC=O)C=O,2-ethylpentanedial,0.4
+12607548,70.09,[CH2]CC[C]=O,[CH2]CC[C]=O,,0.9
+12616643,114.19,C[C@H](CC=O)C(C)C,CC(C)C(C)CC=O,"(3R)-3,4-dimethylpentanal",1.8
+12632821,140.95,C(=O)C(C=O)(Cl)Cl,C(=O)C(C=O)(Cl)Cl,"2,2-dichloropropanedial",0.6
+12652952,198.00,CCC(=O)CI,CCC(=O)CI,1-iodobutan-2-one,1.1
+12666451,136.10,CC(=O)C(C(=O)C)(F)F,CC(=O)C(C(=O)C)(F)F,"3,3-difluoropentane-2,4-dione",0.5
+12671974,73.11,[2H]C(CC)C=O,CCCC=O,2-deuteriobutanal,0.9
+12710519,90.10,CCC(C=O)F,CCC(C=O)F,2-fluorobutanal,1.0
+12712037,114.14,CCC(=O)C(C)C=O,CCC(=O)C(C)C=O,2-methyl-3-oxopentanal,0.6
+12746998,102.13,COCCCC=O,COCCCC=O,4-methoxybutanal,-0.1
+12759147,140.10,CCC(=O)CC(F)(F)F,CCC(=O)CC(F)(F)F,"1,1,1-trifluoropentan-3-one",1.5
+12933794,137.05,C[Se]CC=O,C[Se]CC=O,2-methylselanylacetaldehyde,
+12951109,108.09,CC(=O)C(C)(F)F,CC(=O)C(C)(F)F,"3,3-difluorobutan-2-one",1.0
+13001278,61.10,[2H]C([2H])([2H])C(=O)C,CC(=O)C,"1,1,1-trideuteriopropan-2-one",-0.1
+13001281,60.065,[13CH3]C(=O)[13CH3],CC(=O)C,"(1,3-13C2)propan-2-one",-0.1
+13005248,220.88,CC(=O)C[Sn](C)(C)C,CC(=O)C[Sn](C)(C)C,1-trimethylstannylpropan-2-one,
+13027931,116.16,CCOCCCC=O,CCOCCCC=O,4-ethoxybutanal,0.2
+13027933,116.16,COCCCCC=O,COCCCCC=O,5-methoxypentanal,0.2
+13163928,112.13,C1CC1C(C=O)C=O,C1CC1C(C=O)C=O,2-cyclopropylpropanedial,0.5
+13217260,236.1,C(C[Ge](Cl)(Cl)Cl)C=O,C(C[Ge](Cl)(Cl)Cl)C=O,3-trichlorogermylpropanal,
+13244787,80.06,C(C=O)F.O,C(C=O)F.O,2-fluoroacetaldehyde;hydrate,
+13309291,122.06,C(CP(O)O)C=O,C(CP(O)O)C=O,3-oxopropylphosphonous acid,-1.6
+13379956,84.12,C[C@@H]1C[C@H]1C=O,CC1CC1C=O,"cis-(1R,2R)-2-methylcyclopropane-1-carbaldehyde",0.6
+13379958,84.12,CC1CC1C=O,CC1CC1C=O,2-methylcyclopropane-1-carbaldehyde,0.6
+13383432,184.27,C(CCCCC=O)CCCCC=O,C(CCCCC=O)CCCCC=O,undecanedial,2.5
+13411454,234.91,CC(=O)CC[Sn](C)(C)C,CC(=O)CC[Sn](C)(C)C,4-trimethylstannylbutan-2-one,
+13418281,128.13,CC(=O)CC(=O)C(=O)C,CC(=O)CC(=O)C(=O)C,"hexane-2,3,5-trione",-0.6
+13539283,213.7,CC(=O)[Te]C(=O)C,CC(=O)[Te]C(=O)C,Te-acetyl ethanetelluroate,
+13547179,183.98,CC(C=O)I,CC(C=O)I,2-iodopropanal,1.0
+13570032,102.13,CC(C)(C)C=[O+][O-],CC(C)(C)C=[O+][O-],"2,2-dimethylpropylidene(oxido)oxidanium",0.6
+13610083,90.10,CC(=O)CCF,CC(=O)CCF,4-fluorobutan-2-one,0.2
+13625567,132.18,CCCCCC(C=O)F,CCCCCC(C=O)F,2-fluoroheptanal,2.5
+13639696,212.03,CCCC(C=O)I,CCCC(C=O)I,2-iodopentanal,1.9
+13643743,130.14,C(COCCC=O)C=O,C(COCCC=O)C=O,3-(3-oxopropoxy)propanal,-1.1
+13669119,261.76,CC(=O)[CH-]C(=O)C.CC(=O)[CH-]C(=O)C.[Cu+2],CC(=O)[CH-]C(=O)C.CC(=O)[CH-]C(=O)C.[Cu+2],"copper bis(pentane-2,4-dione)",
+13699909,114.14,CC(CC(=O)C)C=O,CC(CC(=O)C)C=O,2-methyl-4-oxopentanal,-0.1
+13699910,114.14,C[C@@H](CC(=O)C)C=O,CC(CC(=O)C)C=O,(2S)-2-methyl-4-oxopentanal,-0.1
+13796889,114.06,C(=O)C(=O)C(=O)C=O,C(=O)C(=O)C(=O)C=O,"2,3-dioxobutanedial",-0.6
+14103424,128.17,CC(CCCC=O)C=O,CC(CCCC=O)C=O,2-methylhexanedial,0.4
+14271577,226.35,C(CCCCCCC=O)CCCCCC=O,C(CCCCCCC=O)CCCCCC=O,tetradecanedial,4.1
+14292285,71.10,C[CH]C(=O)C,C[CH]C(=O)C,,0.3
+14422750,108.09,CCC(C=O)(F)F,CCC(C=O)(F)F,"2,2-difluorobutanal",1.3
+14470110,323.54,C(C=O)[Hg]Br,C(C=O)[Hg]Br,bromo(2-oxoethyl)mercury,
+14718277,112.13,C1CC(C1)(C=O)C=O,C1CC(C1)(C=O)C=O,"cyclobutane-1,1-dicarbaldehyde",0.2
+14764241,88.13,CC(=S)C=O,CC(=S)C=O,2-sulfanylidenepropanal,0.2
+14764243,102.16,CC(=O)C(=S)C,CC(=O)C(=S)C,3-sulfanylidenebutan-2-one,0.2
+14786267,128.17,CCCCC(=O)CC=O,CCCCC(=O)CC=O,3-oxoheptanal,0.9
+14786268,114.14,CC(C)C(=O)CC=O,CC(C)C(=O)CC=O,4-methyl-3-oxopentanal,0.6
+14931171,70.05,C(=C=O)C=O,C(=C=O)C=O,3-oxoprop-2-enal,0.0
+15009267,128.17,CC(C)(CCC=O)C=O,CC(C)(CCC=O)C=O,"2,2-dimethylpentanedial",0.4
+15009279,114.10,C(C=O)C(=O)CC=O,C(C=O)C(=O)CC=O,3-oxopentanedial,-0.8
+15014471,118.15,CCCCC(C=O)F,CCCCC(C=O)F,2-fluorohexanal,1.9
+15054725,179.13,CCC[Se]C(=O)CC,CCC[Se]C(=O)CC,Se-propyl propaneselenoate,
+15110004,114.14,CCCC(=O)CC=O,CCCC(=O)CC=O,3-oxohexanal,0.4
+15365680,226.06,C(CCC=O)CCI,C(CCC=O)CCI,6-iodohexanal,2.4
+15461417,120.53,C(CC(=O)Cl)C=O,C(CC(=O)Cl)C=O,4-oxobutanoyl chloride,0.1
+15560738,118.16,CC(=O)C(=O)SC,CC(=O)C(=O)SC,S-methyl 2-oxopropanethioate,0.5
+15566595,128.17,CCCCCC(=O)C=O,CCCCCC(=O)C=O,2-oxoheptanal,1.5
+15575778,116.11,C(C=O)C(CC=O)O,C(C=O)C(CC=O)O,3-hydroxypentanedial,-1.5
+15582157,198.00,CC(=O)CCI,CC(=O)CCI,4-iodobutan-2-one,1.0
+16104428,79.15,[2H]C([2H])([2H])C([2H])([2H])C([2H])([2H])C=O,CCCC=O,"2,2,3,3,4,4,4-heptadeuteriobutanal",0.9
+16213377,77.14,[2H]C([2H])([2H])C(=O)C([2H])([2H])C,CCC(=O)C,"1,1,1,3,3-pentadeuteriobutan-2-one",0.3
+17769813,90.05,C(C=O)C(=O)F,C(C=O)C(=O)F,3-oxopropanoyl fluoride,-0.1
+17868745,108.09,CC(CC=O)(F)F,CC(CC=O)(F)F,"3,3-difluorobutanal",0.7
+17868755,183.98,C(CI)C=O,C(CI)C=O,3-iodopropanal,0.8
+17868782,108.09,C(C=O)C(CF)F,C(C=O)C(CF)F,"3,4-difluorobutanal",0.4
+17868783,90.10,CC(CC=O)F,CC(CC=O)F,3-fluorobutanal,0.4
+17879648,130.14,CCC=O.C(C=O)C=O,CCC=O.C(C=O)C=O,propanal;propanedial,
+17879649,158.19,CCC(=O)CC.C(C=O)C=O,CCC(=O)CC.C(C=O)C=O,pentan-3-one;propanedial,
+17879650,144.17,CCCC=O.C(C=O)C=O,CCCC=O.C(C=O)C=O,butanal;propanedial,
+17879651,130.14,CC(=O)C.C(C=O)C=O,CC(=O)C.C(C=O)C=O,propanedial;propan-2-one,
+17879652,144.17,CCC=O.CC(=O)CC=O,CCC=O.CC(=O)CC=O,3-oxobutanal;propanal,
+17904871,94.06,CC(C=O)(F)F,CC(C=O)(F)F,"2,2-difluoropropanal",0.8
+17930792,151.27,CC=O.O=[Zr],CC=O.O=[Zr],acetaldehyde;oxozirconium,
+17960052,70.09,CC1CC1=O,CC1CC1=O,2-methylcyclopropan-1-one,0.3
+18008592,128.13,C(CC(C=O)C=O)C=O,C(CC(C=O)C=O)C=O,"propane-1,1,3-tricarbaldehyde",-0.8
+18172776,116.16,CCC=O.CC(=O)C,CCC=O.CC(=O)C,propanal;propan-2-one,
+18177585,106.12,CC=O.CC=O.O,CC=O.CC=O.O,acetaldehyde;hydrate,
+18185839,88.11,CC=O.CC=O,CC=O.CC=O,acetaldehyde,
+18323591,75.09,[H+].C(CO)C=O,[H+].C(CO)C=O,hydron;3-hydroxypropanal,
+18337316,81.91,[B]CCCC=O,[B]CCCC=O,,
+18343036,87.87,B(CC=O)(O)O,B(CC=O)(O)O,2-oxoethylboronic acid,
+18356450,102.17,CCC.CC(=O)C,CCC.CC(=O)C,propane;propan-2-one,
+18364271,104.13,CC(=O)C(=O)S,CC(=O)C(=O)S,2-oxopropanethioic S-acid,0.2
+18364295,104.13,C(=O)C(C=O)S,C(=O)C(C=O)S,2-sulfanylpropanedial,-0.2
+18366337,76.09,CC(=O)C.O,CC(=O)C.O,propan-2-one;hydrate,
+18366365,104.10,COC.C(=O)C=O,COC.C(=O)C=O,methoxymethane;oxaldehyde,
+18406307,105.89,B(O)(O)O.CC=O,B(O)(O)O.CC=O,acetaldehyde;boric acid,
+18421062,94.06,C(C(C=O)F)F,C(C(C=O)F)F,"2,3-difluoropropanal",0.5
+18538325,128.13,C(CC(=O)CC=O)C=O,C(CC(=O)CC=O)C=O,3-oxohexanedial,-1.1
+18597269,171.96,[3H]C(C=O)I,C(C=O)I,2-iodo-2-tritioacetaldehyde,0.4
+18618759,98.05,C(=O)C(F)F.O,C(=O)C(F)F.O,"2,2-difluoroacetaldehyde;hydrate",
+18624855,116.16,CC(C)OCCC=O,CC(C)OCCC=O,3-propan-2-yloxypropanal,0.3
+18652427,101.16,[2H]C(CCCC)C=O,CCCCCC=O,2-deuteriohexanal,1.8
+18674559,154.09,CCC(=O)C(=O)C(F)(F)F,CCC(=O)C(=O)C(F)(F)F,"1,1,1-trifluoropentane-2,3-dione",1.2
+18680436,86.16,CC(=O)C.[Si],CC(=O)C.[Si],,
+18691648,130.18,CCCC=O.CCC=O,CCCC=O.CCC=O,butanal;propanal,
+18940200,186.29,CCCCCC=O.CCCCC=O,CCCCCC=O.CCCCC=O,hexanal;pentanal,
+18974562,116.16,CCC=O.CCC=O,CCC=O.CCC=O,propanal,
+18991945,158.05,C(=O)C(C(C=O)(F)F)(F)F,C(=O)C(C(C=O)(F)F)(F)F,"2,2,3,3-tetrafluorobutanedial",0.6
+18999460,110.13,CC=O.OSO,CC=O.OSO,acetaldehyde;sulfanediol,
+19018597,124.96,CC=O.Br,CC=O.Br,acetaldehyde;hydrobromide,
+19033815,88.06,C=O.C(=O)C=O,C=O.C(=O)C=O,formaldehyde;oxaldehyde,
+19044839,94.54,CC(=O)C.Cl,CC(=O)C.Cl,propan-2-one;hydrochloride,
+19063764,158.15,CC(=O)C=O.CC(=O)C(=O)C,CC(=O)C=O.CC(=O)C(=O)C,"butane-2,3-dione;2-oxopropanal",
+19362754,192.95,C(C[C-]=O)C=O.[Ag+],C(C[C-]=O)C=O.[Ag+],silver 4-oxobutanal,
+19366238,76.09,CC=O.CO,CC=O.CO,acetaldehyde;methanol,
+19370624,90.12,CCC(=O)C.O,CCC(=O)C.O,butan-2-one;hydrate,
+19378216,288.70,CC=O.CC=O.[Hg+2],CC=O.CC=O.[Hg+2],acetaldehyde;mercury(2+),
+19382907,90.08,CC(C=O)(O)O,CC(C=O)(O)O,"2,2-dihydroxypropanal",-1.3
+19605922,128.17,CC(CCC=O)CC=O,CC(CCC=O)CC=O,3-methylhexanedial,0.2
+19606697,62.07,CC=O.O,CC=O.O,acetaldehyde;hydrate,
+19688737,86.09,CC=O.C=C=O,CC=O.C=C=O,acetaldehyde;ethenone,
+19694734,116.11,CCC=O.C(=O)C=O,CCC=O.C(=O)C=O,oxaldehyde;propanal,
+19705594,114.10,CC(C=O)(C=O)C=O,CC(C=O)(C=O)C=O,"ethane-1,1,1-tricarbaldehyde",-0.6
+19737126,104.12,CCC(CC=O)F,CCC(CC=O)F,3-fluoropentanal,1.0
+19784777,100.07,C(C=O)C(=O)C=O,C(C=O)C(=O)C=O,2-oxobutanedial,-0.8
+19807450,95.05,C(C=O)C=O.[Na+],C(C=O)C=O.[Na+],sodium propanedial,
+19827565,90.10,C(=O)C(=O)S,C(=O)C(=O)S,2-oxoethanethioic S-acid,0.2
+19869295,98.03,C(=O)C=O.[OH-].[Na+],C(=O)C=O.[OH-].[Na+],sodium;oxaldehyde;hydroxide,
+19876212,134.09,C(=O)C=O.C(=O)C=O.O,C(=O)C=O.C(=O)C=O.O,oxaldehyde;hydrate,
+19899952,116.16,CCCC=O.CC=O,CCCC=O.CC=O,acetaldehyde;butanal,
+19933060,100.12,CCC(C=O)C=O,CCC(C=O)C=O,2-ethylpropanedial,0.3
+20065202,131.00,CCC=O.Cl.Cl,CCC=O.Cl.Cl,propanal;dihydrochloride,
+20088689,108.57,CCCC=O.Cl,CCCC=O.Cl,butanal;hydrochloride,
+20143883,76.03,C(=O)C(=O)F,C(=O)C(=O)F,2-oxoacetyl fluoride,0.1
+20144580,96.08,C#CC(=O)CC=O,C#CC(=O)CC=O,3-oxopent-4-ynal,0.1
+20149005,128.08,C(=O)C(C=O)(C=O)C=O,C(=O)C(C=O)(C=O)C=O,methanetetracarbaldehyde,-1.4
+20157043,74.08,C1CC1=O.O,C1CC1=O.O,cyclopropanone;hydrate,
+20164499,130.18,CCCC=O.CC(=O)C,CCCC=O.CC(=O)C,butanal;propan-2-one,
+20192709,92.12,C(=O)C=O.S,C(=O)C=O.S,oxaldehyde;sulfane,
+20194933,76.07,C(CF)C=O,C(CF)C=O,3-fluoropropanal,0.0
+20195989,109.12,CC=O.C=O.N.O,CC=O.C=O.N.O,acetaldehyde;azane;formaldehyde;hydrate,
+20253250,114.14,CC(C)C(C=O)C=O,CC(C)C(C=O)C=O,2-propan-2-ylpropanedial,0.7
+20303419,197.96,C(=O)C(C=O)I,C(=O)C(C=O)I,2-iodopropanedial,0.1
+20303527,90.05,C(=O)C(C=O)F,C(=O)C(C=O)F,2-fluoropropanedial,-0.2
+20356447,130.18,CCC=O.CCC(=O)C,CCC=O.CCC(=O)C,butan-2-one;propanal,
+20377307,89.09,C(CON)C=O,C(CON)C=O,3-aminooxypropanal,-1.2
+20391254,168.11,C(C=O)C(CC=O)C(F)(F)F,C(C=O)C(CC=O)C(F)(F)F,3-(trifluoromethyl)pentanedial,0.5
+20427665,128.13,CCC(=O)C(=O)C(=O)C,CCC(=O)C(=O)C(=O)C,"hexane-2,3,4-trione",-0.1
+20431020,90.08,C=O.C(C=O)O,C=O.C(C=O)O,formaldehyde;2-hydroxyacetaldehyde,
+20441111,90.02,C(=O)C(=O)P,C(=O)C(=O)P,2-oxo-2-phosphanylacetaldehyde,-0.4
+20446369,128.13,C(C=O)C(CC=O)C=O,C(C=O)C(CC=O)C=O,"propane-1,2,3-tricarbaldehyde",-1.4
+20485488,136.93,C(=O)C(=O)Br,C(=O)C(=O)Br,2-oxoacetyl bromide,0.7
+20486028,88.11,CCC=O.C=O,CCC=O.C=O,formaldehyde;propanal,
+20490989,119.87,B(O)(O)O.C(=O)C=O,B(O)(O)O.C(=O)C=O,boric acid;oxaldehyde,
+20502358,158.24,CCCCC=O.CCCC=O,CCCCC=O.CCCC=O,butanal;pentanal,
+20505731,142.15,CCCC(C=O)(C=O)C=O,CCCC(C=O)(C=O)C=O,"butane-1,1,1-tricarbaldehyde",0.3
+20524603,187.5,C(=O)C=O.[O-]S[O-].[Zn+2],C(=O)C=O.[O-]S[O-].[Zn+2],,
+20531819,124.55,C(=O)C(=O)SCl,C(=O)C(=O)SCl,S-chloro 2-oxoethanethioate,0.9
+20544787,116.16,CCC(=O)C.CC=O,CCC(=O)C.CC=O,acetaldehyde;butan-2-one,
+20545621,118.16,CC(=O)CC(=O)S,CC(=O)CC(=O)S,3-oxobutanethioic S-acid,0.1
+20552521,90.12,CC(C)C=O.O,CC(C)C=O.O,2-methylpropanal;hydrate,
+20571872,90.08,CC(=O)C=O.O,CC(=O)C=O.O,2-oxopropanal;hydrate,
+20573951,136.20,C(=O)C(C=O)SS,C(=O)C(C=O)SS,2-(disulfanyl)propanedial,0.2
+20590636,118.09,C(=O)C#CC#CC#CO,C(=O)C#CC#CC#CO,"7-hydroxyhepta-2,4,6-triynal",1.0
+20591840,128.08,C(C(=O)C=O)C(=O)C=O,C(C(=O)C=O)C(=O)C=O,"2,4-dioxopentanedial",-0.9
+20593623,255.90,[CH2-]C=O.[CH-]=O.[W+2],[CH2-]C=O.[CH-]=O.[W+2],acetaldehyde;methanone;tungsten(2+),
+20597151,57.07,CC(=O)[CH2+],CC(=O)[CH2+],propan-2-one,-0.1
+20613104,126.20,CO[CH-]CC=O.[K+],CO[CH-]CC=O.[K+],potassium 3-methoxypropanal,
+20613113,110.15,C(C=O)[C-]=O.[K+],C(C=O)[C-]=O.[K+],potassium 3-oxopropanal,
+20642218,241.92,[CH3-].[CH2-]C=O.[W+2],[CH3-].[CH2-]C=O.[W+2],acetaldehyde;carbanide;tungsten(2+),
+20652894,114.10,CC(=O)CC(=O)C=O,CC(=O)CC(=O)C=O,"2,4-dioxopentanal",-0.5
+20702358,92.07,CC(C=O)(O)F,CC(C=O)(O)F,2-fluoro-2-hydroxypropanal,-0.3
+20732318,59.09,CCC=[OH+],CCC=[OH+],propylideneoxidanium,0.6
+20742452,43.04,[CH2+]C=O,[CH2+]C=O,acetaldehyde,-0.3
+20744931,50.0,[Li+].[CH2-]C=O,[Li+].[CH2-]C=O,lithium acetaldehyde,
+20978981,118.20,CCCC(C=O)S,CCCC(C=O)S,2-sulfanylpentanal,1.3
+21014882,74.08,CC(=[O+][O-])C,CC(=[O+][O-])C,oxido(propan-2-ylidene)oxidanium,-0.6
+21028275,177.96,[CH2-]C=O.N(=O)[O-].[Y],[CH2-]C=O.N(=O)[O-].[Y],acetaldehyde;yttrium;nitrite,
+21051211,820.4,CC(=O)[CH-]C=O.[W].[W].[W].[W],CC(=O)[CH-]C=O.[W].[W].[W].[W],3-oxobutanal;tungsten,
+21107300,122.07,C(C=O)C(=O)C(F)F,C(C=O)C(=O)C(F)F,"4,4-difluoro-3-oxobutanal",0.4
+21114858,298.76,C(=O)C(Br)(Br)Br.O,C(=O)C(Br)(Br)Br.O,"2,2,2-tribromoacetaldehyde;hydrate",
+21116878,210.14,C(=O)C=O.C(=O)C=O.C(=O)C=O.O.O,C(=O)C=O.C(=O)C=O.C(=O)C=O.O.O,oxaldehyde;dihydrate,
+21189145,114.10,CCC(=O)C(=O)C=O,CCC(=O)C(=O)C=O,"2,3-dioxopentanal",0.0
+21190979,114.14,CC(C)(CC=O)C=O,CC(C)(CC=O)C=O,"2,2-dimethylbutanedial",0.0
+21197420,108.04,C(=O)C(C=O)(F)F,C(=O)C(C=O)(F)F,"2,2-difluoropropanedial",0.1
+21242637,67.84,[B]C(=O)C=O,[B]C(=O)C=O,,
+21242758,60.10,C.CC=O,C.CC=O,acetaldehyde;methane,
+21251742,116.07,C(=O)C=O.C(=O)C=O,C(=O)C=O.C(=O)C=O,oxaldehyde,
+21263478,88.06,CC=O.C(=O)=O,CC=O.C(=O)=O,acetaldehyde;carbon dioxide,
+21264937,112.08,C(=O)C=O.O.O.O,C(=O)C=O.O.O.O,oxaldehyde;trihydrate,
+21265496,114.10,CC(=O)C(C=O)C=O,CC(=O)C(C=O)C=O,2-acetylpropanedial,-0.7
+21269018,71.13,C(C=O)[Si],C(C=O)[Si],,
+21280128,75.07,C(=O)C=O.N,C(=O)C=O.N,azane;oxaldehyde,
+21294144,174.24,CCC=O.CCC=O.CCC=O,CCC=O.CCC=O.CCC=O,propanal,
+21301831,102.09,COC(C=O)C=O,COC(C=O)C=O,2-methoxypropanedial,-0.7
+21322048,96.13,CC#CCC(=O)C,CC#CCC(=O)C,hex-4-yn-2-one,0.7
+21347800,128.13,CC(=O)CC(=O)CC=O,CC(=O)CC(=O)CC=O,"3,5-dioxohexanal",-0.6
+21396871,108.52,C(C=O)C=O.Cl,C(C=O)C=O.Cl,propanedial;hydrochloride,
+21505159,90.08,CC(=O)COO,CC(=O)COO,1-hydroperoxypropan-2-one,-0.7
+21752648,94.06,C(C=O)C(F)F,C(C=O)C(F)F,"3,3-difluoropropanal",0.5
+21797511,197.96,C(C=O)C(=O)I,C(C=O)C(=O)I,3-oxopropanoyl iodide,0.5
+21841610,130.10,C(C=O)C=O.C(=O)C=O,C(C=O)C=O.C(=O)C=O,oxaldehyde;propanedial,
+21848962,91.11,CC=O.C=O.N,CC=O.C=O.N,acetaldehyde;azane;formaldehyde,
+21863952,163.66,CC(=O)CC(=O)C.[Cu+2],CC(=O)CC(=O)C.[Cu+2],"copper pentane-2,4-dione",
+21867985,128.13,CCC(C=O)(C=O)C=O,CCC(C=O)(C=O)C=O,"propane-1,1,1-tricarbaldehyde",-0.2
+21872017,130.14,C=O.C(CC=O)CC=O,C=O.C(CC=O)CC=O,formaldehyde;pentanedial,
+21880647,76.05,C(=O)C=O.O,C(=O)C=O.O,oxaldehyde;hydrate,
+21894497,90.12,CC(=O)C.CO,CC(=O)C.CO,methanol;propan-2-one,
+21899751,126.08,C(C(C(C=O)F)F)F,C(C(C(C=O)F)F)F,"2,3,4-trifluorobutanal",0.9
+21906771,78.14,CC=O.S,CC=O.S,acetaldehyde;sulfane,
+21982668,104.13,C(C=O)C(=O)S,C(C=O)C(=O)S,3-oxopropanethioic S-acid,-0.1
+21997081,116.16,CC(=O)C.CC(=O)C,CC(=O)C.CC(=O)C,propan-2-one,
+22011564,174.11,C(=O)C=O.C(=O)C=O.C(=O)C=O,C(=O)C=O.C(=O)C=O.C(=O)C=O,oxaldehyde,
+22020247,75.11,CC(=O)C.N,CC(=O)C.N,azane;propan-2-one,
+22026454,88.11,CC(=O)C.C=O,CC(=O)C.C=O,formaldehyde;propan-2-one,
+22033763,98.10,C1CC1(C=O)C=O,C1CC1(C=O)C=O,"cyclopropane-1,1-dicarbaldehyde",-0.3
+22058367,106.51,C(C=O)C(=O)Cl,C(C=O)C(=O)Cl,3-oxopropanoyl chloride,0.4
+22075560,156.14,C(C(C=O)C=O)C(C=O)C=O,C(C(C=O)C=O)C(C=O)C=O,"propane-1,1,3,3-tetracarbaldehyde",-1.1
+22094685,122.07,C(C=O)C(C=O)(F)F,C(C=O)C(C=O)(F)F,"2,2-difluorobutanedial",-0.2
+22114514,130.10,CC(=O)C=O.C(=O)C=O,CC(=O)C=O.C(=O)C=O,oxaldehyde;2-oxopropanal,
+22131426,118.17,CCOCC.CC=O,CCOCC.CC=O,acetaldehyde;ethoxyethane,
+22140526,154.09,C(CC(=O)C(F)(F)F)C=O,C(CC(=O)C(F)(F)F)C=O,"5,5,5-trifluoro-4-oxopentanal",0.4
+22152471,130.18,CCC=O.CC(C)C=O,CCC=O.CC(C)C=O,2-methylpropanal;propanal,
+22174207,142.15,C(CC(CC=O)C=O)C=O,C(CC(CC=O)C=O)C=O,"butane-1,2,4-tricarbaldehyde",-1.1
+22247577,140.12,C(=O)C=O.OS(=O)O,C(=O)C=O.OS(=O)O,oxaldehyde;sulfurous acid,
+22314775,94.54,CCC=O.Cl,CCC=O.Cl,propanal;hydrochloride,
+22328167,183.5,CC(=O)CC(=O)C.O.[Zn+2],CC(=O)CC(=O)C.O.[Zn+2],"zinc;pentane-2,4-dione;hydrate",
+22352755,114.10,C(C=O)C(C=O)C=O,C(C=O)C(C=O)C=O,"ethane-1,1,2-tricarbaldehyde",-1.2
+22369920,144.21,CCCC=O.CC(C)C=O,CCCC=O.CC(C)C=O,butanal;2-methylpropanal,
+22381885,130.18,CCC(=O)C.CC(=O)C,CCC(=O)C.CC(=O)C,butan-2-one;propan-2-one,
+22404515,130.18,COCCCCCC=O,COCCCCCC=O,6-methoxyhexanal,0.6
+22450779,102.13,CCC=O.CC=O,CCC=O.CC=O,acetaldehyde;propanal,
+22456016,140.06,CC(=O)C(=O)C(F)(F)F,CC(=O)C(=O)C(F)(F)F,"1,1,1-trifluorobutane-2,3-dione",0.7
+22486473,116.16,CC(CCC=O)OC,CC(CCC=O)OC,4-methoxypentanal,0.3
+22497392,102.09,CC=O.C(=O)C=O,CC=O.C(=O)C=O,acetaldehyde;oxaldehyde,
+22501478,114.10,C(CC(=O)C=O)C=O,C(CC(=O)C=O)C=O,2-oxopentanedial,-1.0
+22564433,75.07,C(C=O)ON,C(C=O)ON,2-aminooxyacetaldehyde,-1.1
+22619147,94.89,[B]1CCC(=O)C1=O,[B]1CCC(=O)C1=O,,
+22619232,150.96,C(C=O)C(=O)Br,C(C=O)C(=O)Br,3-oxopropanoyl bromide,0.5
+22741478,90.08,CO.C(=O)C=O,CO.C(=O)C=O,methanol;oxaldehyde,
+22743515,134.56,C(CC(C=O)Cl)C=O,C(CC(C=O)Cl)C=O,2-chloropentanedial,0.2
+22909872,183.93,C(=O)C(=O)I,C(=O)C(=O)I,2-oxoacetyl iodide,0.5
+22922799,102.13,CC=O.CC(=O)C,CC=O.CC(=O)C,acetaldehyde;propan-2-one,
+22956092,93.99,[CH2+]C=O.[V],[CH2+]C=O.[V],acetaldehyde;vanadium,
+22986877,257.92,[CH2-]C=O.[CH2-]O.[W+2],[CH2-]C=O.[CH2-]O.[W+2],acetaldehyde;methanol;tungsten(2+),
+23018346,118.16,CCC(=O)C(=O)S,CCC(=O)C(=O)S,2-oxobutanethioic S-acid,0.6
+23262270,144.07,CC(=O)C(C(F)(F)F)F,CC(=O)C(C(F)(F)F)F,"3,4,4,4-tetrafluorobutan-2-one",1.5
+23286057,126.08,C(C=O)C(C(F)F)F,C(C=O)C(C(F)F)F,"3,4,4-trifluorobutanal",0.9
+23390360,67.88,[B]CC(=O)C,[B]CC(=O)C,,
+23514960,147.04,C[CH2-].[CH2-]C=O.O=[Co],C[CH2-].[CH2-]C=O.O=[Co],acetaldehyde;ethane;oxocobalt,
+23519273,128.17,CCC(C)(CC=O)C=O,CCC(C)(CC=O)C=O,2-ethyl-2-methylbutanedial,0.4
+23528813,96.17,[CH2-]CC=O.[K+],[CH2-]CC=O.[K+],potassium propanal,
+23549048,148.14,CC(=O)CCP(=O)(C)C,CC(=O)CCP(=O)(C)C,4-dimethylphosphorylbutan-2-one,-1.0
+23661960,160.21,C1=CC=C(C=C1)C(=O)[O-].[K+],C1=CC=C(C=C1)C(=O)[O-].[K+],potassium benzoate,
+23662273,96.02,C(=O)C(=O)[O-].[Na+],C(=O)C(=O)[O-].[Na+],sodium oxaldehydate,
+23665888,276.24,CC1(CC(=O)C2=CC=CC=C2C1=O)S(=O)(=O)[O-].[Na+],CC1(CC(=O)C2=CC=CC=C2C1=O)S(=O)(=O)[O-].[Na+],"sodium 2-methyl-1,4-dioxo-3H-naphthalene-2-sulfonate",
+23669142,112.13,C(=O)C(=O)[O-].[K+],C(=O)C(=O)[O-].[K+],potassium oxaldehydate,
+23669177,142.04,C(=O)C=O.C(=O)(O)[O-].[Na+],C(=O)C=O.C(=O)(O)[O-].[Na+],sodium;hydrogen carbonate;oxaldehyde,
+23673629,108.07,CC(=O)[CH-]C=O.[Na+],CC(=O)[CH-]C=O.[Na+],sodium 3-oxobutanal,
+23681821,98.08,CC(=O)C.[OH-].[Na+],CC(=O)C.[OH-].[Na+],sodium;propan-2-one;hydroxide,
+23683000,80.0,[Li+].C(=O)C(=O)[O-],[Li+].C(=O)C(=O)[O-],lithium oxaldehydate,
+23687521,138.21,CC(=O)[CH-]C(=O)C.[K+],CC(=O)[CH-]C(=O)C.[K+],"potassium pentane-2,4-dione",
+23688984,172.94,C(=O)[C-](C=O)Br.[Na+],C(=O)[C-](C=O)Br.[Na+],sodium 2-bromopropanedial,
+23690424,158.13,C1=CC=C(C=C1)CC(=O)[O-].[Na+],C1=CC=C(C=C1)CC(=O)[O-].[Na+],sodium 2-phenylacetate,
+23690757,110.09,CC(=O)[CH2-].C=O.[Na+],CC(=O)[CH2-].C=O.[Na+],sodium;formaldehyde;propan-2-one,
+23691086,124.07,C(CC(=O)[O-])C=O.[Na+],C(CC(=O)[O-])C=O.[Na+],sodium 4-oxobutanoate,
+23694682,108.07,C[C-](C=O)C=O.[Na+],C[C-](C=O)C=O.[Na+],sodium 2-methylpropanedial,
+23702915,130.10,C(C=O)OS[O-].[Na+],C(C=O)OS[O-].[Na+],sodium 2-sulfenatooxyacetaldehyde,
+23702927,82.03,C(C=O)[O-].[Na+],C(C=O)[O-].[Na+],sodium 2-oxoethanolate,
+23704362,184.58,CC(=O)[CH-]C(=O)C.[Rb+],CC(=O)[CH-]C(=O)C.[Rb+],"pentane-2,4-dione;rubidium(1+)",
+23706077,162.10,C(=O)C=O.OS(=O)[O-].[Na+],C(=O)C=O.OS(=O)[O-].[Na+],sodium;hydrogen sulfite;oxaldehyde,
+23708710,116.52,CC(=O)C.[Na+].[Cl-],CC(=O)C.[Na+].[Cl-],sodium;propan-2-one;chloride,
+23712862,94.04,[CH-](C=O)C=O.[Na+],[CH-](C=O)C=O.[Na+],sodium propanedial,
+24192443,106.1,[Li+].CC(=O)[CH-]C(=O)C,[Li+].CC(=O)[CH-]C(=O)C,"lithium pentane-2,4-dione",
+24807015,226.06,CCCCC(C=O)I,CCCCC(C=O)I,2-iodohexanal,2.4
+24973779,176.08,C(CC(C(F)(F)F)(F)F)C=O,C(CC(C(F)(F)F)(F)F)C=O,"4,4,5,5,5-pentafluoropentanal",1.8
+25106786,61.05,C(C=O)[18F],C(C=O)F,2-(18F)fluoroacetaldehyde,0.1
+40786919,90.10,C[C@@H](C(=O)C)F,CC(C(=O)C)F,(3S)-3-fluorobutan-2-one,0.7
+44717084,74.02,C(=O)C=P,C(=O)C=P,2-phosphanylideneacetaldehyde,-1.1
+45085070,114.10,CC(=O)C(=O)CC=O,CC(=O)C(=O)CC=O,"3,4-dioxopentanal",-0.8
+45085283,128.08,CC(=O)C(=O)C(=O)C=O,CC(=O)C(=O)C(=O)C=O,"2,3,4-trioxopentanal",-0.6
+45085668,142.11,CC(=O)C(=O)C(=O)C(=O)C,CC(=O)C(=O)C(=O)C(=O)C,"hexane-2,3,4,5-tetrone",-0.6
+45266826,177.24,CC1=CC=C(C=C1)C(=O)C(C)NC,CC1=CC=C(C=C1)C(=O)C(C)NC,2-(methylamino)-1-(4-methylphenyl)propan-1-one,2.0
+45358072,214.19,CC(=O)C(=O)[O-].CC(=O)C(=O)[O-].[Ca+2],CC(=O)C(=O)[O-].CC(=O)C(=O)[O-].[Ca+2],calcium bis(2-oxopropanoate),
+46204396,100.07,CC(=O)C(=O)C=O,CC(=O)C(=O)C=O,"2,3-dioxobutanal",-0.5
+51035424,90.08,C(=[OH+])C(C=[OH+])O,C(=[OH+])C(C=[OH+])O,(2-hydroxy-3-oxoniumylidenepropylidene)oxidanium,-1.2
+52991901,130.07,C(C=O)C(F)(F)F.O,C(C=O)C(F)(F)F.O,"3,3,3-trifluoropropanal;hydrate",
+53443219,148.06,C(=O)C(C(F)(F)F)F.O,C(=O)C(C(F)(F)F)F.O,"2,3,3,3-tetrafluoropropanal;hydrate",
+53487441,198.00,CC[C@H](C=O)I,CCC(C=O)I,(2R)-2-iodobutanal,1.3
+53627475,71.10,[CH2]CCC=O,[CH2]CCC=O,,0.9
+53627505,57.07,[CH2]CC=O,[CH2]CC=O,,0.6
+53628786,99.15,[CH2]CCCCC=O,[CH2]CCCCC=O,,1.8
+53630510,85.12,[CH2]CCCC=O,[CH2]CCCC=O,,1.1
+53648154,130.14,CC(C=O)OCC(=O)C,CC(C=O)OCC(=O)C,2-(2-oxopropoxy)propanal,-0.2
+53656238,190.11,CC(=O)C(=O)OOOC(=O)C(=O)C,CC(=O)C(=O)OOOC(=O)C(=O)C,2-oxopropanoyloxy 2-oxopropaneperoxoate,0.0
+53713294,90.02,C(C=O)P=O,C(C=O)P=O,2-phosphorosoacetaldehyde,-1.1
+53737323,62.10,[2H]CC(=O)C([2H])([2H])[2H],CC(=O)C,"1,1,1,3-tetradeuteriopropan-2-one",-0.1
+53737325,60.09,[2H]C([2H])C(=O)C,CC(=O)C,"1,1-dideuteriopropan-2-one",-0.1
+53737326,63.11,[2H]C([2H])C(=O)C([2H])([2H])[2H],CC(=O)C,"1,1,1,3,3-pentadeuteriopropan-2-one",-0.1
+53740435,146.18,CC(CCC=O)(OC)OC,CC(CCC=O)(OC)OC,"4,4-dimethoxypentanal",0.1
+53782318,98.14,CC1CC(C1)C=O,CC1CC(C1)C=O,3-methylcyclobutane-1-carbaldehyde,1.0
+53789371,46.06,[3H]CC=O,CC=O,2-tritioacetaldehyde,-0.3
+53795342,104.10,CC(=O)C(C)(O)O,CC(=O)C(C)(O)O,"3,3-dihydroxybutan-2-one",-1.1
+53833011,142.11,C(C=O)C(C=O)(C=O)C=O,C(C=O)C(C=O)(C=O)C=O,"ethane-1,1,1,2-tetracarbaldehyde",-1.7
+53879732,98.10,C(CC=O)C=C=O,C(CC=O)C=C=O,5-oxopent-4-enal,0.4
+53900857,104.12,CCC(C(=O)C)F,CCC(C(=O)C)F,3-fluoropentan-2-one,1.3
+53966880,295.85,C(=O)C(I)I,C(=O)C(I)I,"2,2-diiodoacetaldehyde",1.2
+54041244,108.48,C(=O)C(=O)OCl,C(=O)C(=O)OCl,chloro 2-oxoacetate,0.8
+54127989,122.07,CC(=O)C(C=O)(F)F,CC(=O)C(C=O)(F)F,"2,2-difluoro-3-oxobutanal",0.3
+54186620,128.17,CC(C)(C)CC(=O)C=O,CC(C)(C)CC(=O)C=O,"4,4-dimethyl-2-oxopentanal",1.3
+54190842,112.13,CC(=C=O)CCC=O,CC(=C=O)CCC=O,4-methyl-5-oxopent-4-enal,1.0
+54333570,104.12,CCCC(=O)CF,CCCC(=O)CF,1-fluoropentan-2-one,1.2
+54376587,243.88,C(C=O)C(C=O)(Br)Br,C(C=O)C(C=O)(Br)Br,"2,2-dibromobutanedial",0.7
+54388900,144.07,C(C(C(C=O)(F)F)F)F,C(C(C(C=O)(F)F)F)F,"2,2,3,4-tetrafluorobutanal",1.2
+54411276,206.18,CC(=O)C(=O)OSOC(=O)C(=O)C,CC(=O)C(=O)OSOC(=O)C(=O)C,2-oxopropanoyloxysulfanyl 2-oxopropanoate,0.4
+54451181,70.12,C(=O)C=[Si],C(=O)C=[Si],,
+54491146,76.05,C(C=O)OO,C(C=O)OO,2-hydroperoxyacetaldehyde,-0.9
+54507592,126.08,CC(C(C=O)(F)F)F,CC(C(C=O)(F)F)F,"2,2,3-trifluorobutanal",1.2
+54526732,112.13,C(CC=C=O)CC=O,C(CC=C=O)CC=O,6-oxohex-5-enal,0.8
+54556568,112.08,C1C(=O)C(C1=O)C=O,C1C(=O)C(C1=O)C=O,"2,4-dioxocyclobutane-1-carbaldehyde",-0.4
+54564000,136.14,CC(CCCC=O)(F)F,CC(CCCC=O)(F)F,"5,5-difluorohexanal",1.4
+55275041,152.23,CCCCC#CCCCC=O,CCCCC#CCCCC=O,dec-5-ynal,2.6
+56845944,63.11,[2H]C([2H])([2H])C([2H])([2H])C=O,CCC=O,"2,2,3,3,3-pentadeuteriopropanal",0.6
+57076861,118.11,C(CCP)CC=O,C(CCP)CC=O,5-phosphanylpentanal,0.1
+57077044,118.20,CC(CCC=O)S,CC(CCC=O)S,4-sulfanylpentanal,0.7
+57109923,104.12,CC(=O)CCCF,CC(=O)CCCF,5-fluoropentan-2-one,0.6
+57141316,85.16,C(C[Si])C=O,C(C[Si])C=O,,
+57190134,123.11,C(C=O)OS(=O)[O-],C(C=O)OS(=O)[O-],2-oxoethyl sulfite,-1.1
+57243283,153.05,C(C(=O)C=O)[P+](O)(O)O,C(C(=O)C=O)[P+](O)(O)O,"2,3-dioxopropyl(trihydroxy)phosphanium",-2.1
+57284608,92.12,C(C=O)OS,C(C=O)OS,2-sulfanyloxyacetaldehyde,0.1
+57300754,53.86,[B]CC=O,[B]CC=O,,
+57369836,61.045,C([13CH]=O)O,C(C=O)O,2-hydroxyacetaldehyde,-0.9
+57375828,148.06,C(=O)C(C(F)F)(F)F.O,C(=O)C(C(F)F)(F)F.O,"2,2,3,3-tetrafluoropropanal;hydrate",
+57418026,85.12,CCC(=O)C[CH2],CCC(=O)C[CH2],,0.9
+57419686,107.60,CC=O.[Cu],CC=O.[Cu],acetaldehyde;copper,
+57422079,91.92,CC=O.[Ti],CC=O.[Ti],acetaldehyde;titanium,
+57422097,99.90,CC=O.[Fe],CC=O.[Fe],acetaldehyde;iron,
+57432870,136.96,CC=O.[Nb],CC=O.[Nb],acetaldehyde;niobium,
+57438584,71.03,CC=O.[Al],CC=O.[Al],,
+57444919,80.51,CC=O.Cl,CC=O.Cl,acetaldehyde;hydrochloride,
+57460011,225.00,CC=O.[Ta],CC=O.[Ta],acetaldehyde;tantalum,
+57538352,64.12,[2H]C(=O)C([2H])([2H])C([2H])([2H])[2H],CCC=O,"1,2,2,3,3,3-hexadeuteriopropan-1-one",0.6
+57616927,49.056,[2H][13CH]([2H])[13C](=O)[2H],CC=O,"1,2,2-trideuterio(1,2-13C2)ethanone",-0.3
+57655582,55.87,[2H][B-]CC=O,[BH-]CC=O,,
+57673139,220.86,[CH2-]C=O.[Y].[Y],[CH2-]C=O.[Y].[Y],acetaldehyde;bis(yttrium),
+57673141,487.57,[CH2-]C=O.[Y].[Y].[Y].[Y].[Y],[CH2-]C=O.[Y].[Y].[Y].[Y].[Y],acetaldehyde;pentakis(yttrium),
+57925423,145.98,CC(=O)[CH2-].[Y],CC(=O)[CH2-].[Y],propan-2-one;yttrium,
+57976573,90.10,CC[C@@H](C=O)F,CCC(C=O)F,(2S)-2-fluorobutanal,1.0
+58114481,104.08,C(CF)C(=O)C=O,C(CF)C(=O)C=O,4-fluoro-2-oxobutanal,-0.1
+58420735,92.07,CC(=O)COF,CC(=O)COF,2-oxopropyl hypofluorite,0.4
+58420736,78.04,C(C=O)OF,C(C=O)OF,2-oxoethyl hypofluorite,0.1
+58455246,87.14,[2H]C(=O)C(C)CC,CCC(C)C=O,1-deuterio-2-methylbutan-1-one,1.1
+58478990,102.13,[2H]C([2H])(C(=O)C)C(=O)C,CC(=O)CC(=O)C,"3,3-dideuteriopentane-2,4-dione",0.4
+59041912,173.02,[CH2-]CC[CH-]C=O.[Y],[CH2-]CC[CH-]C=O.[Y],pentanal;yttrium,
+59083781,59.04,C(=[OH+])C=O,C(=[OH+])C=O,2-oxoethylideneoxidanium,-0.4
+59134986,73.11,[2H]C(=O)C(C)C,CC(C)C=O,1-deuterio-2-methylpropan-1-one,0.8
+59148751,104.08,C(C=O)C(=O)CF,C(C=O)C(=O)CF,4-fluoro-3-oxobutanal,0.0
+59736567,122.5,CC(=O)[CH2-].[Zn],CC(=O)[CH2-].[Zn],propan-2-one;zinc,
+59861701,60.05,CC=[O+][O-],CC=[O+][O-],ethylidene(oxido)oxidanium,-0.8
+59941970,173.99,CC(=O)C[C-]=O.[Y],CC(=O)C[C-]=O.[Y],"butane-1,3-dione;yttrium",
+67259533,70.05,C1C(=O)C1=O,C1C(=O)C1=O,"cyclopropane-1,2-dione",-0.5
+70478040,106.55,C1CC(=O)C1.Cl,C1CC(=O)C1.Cl,cyclobutanone;hydrochloride,
+71309167,59.07,CC[13CH]=O,CCC=O,(113C)propanal,0.6
+71309459,88.07,[13CH3]C(=O)C(=O)[13CH3],CC(=O)C(=O)C,"(1,4-13C2)butane-2,3-dione",-1.3
+71309591,88.07,C[13C](=O)[13C](=O)C,CC(=O)C(=O)C,"(2,3-13C2)butane-2,3-dione",-1.3
+71309851,74.11,[2H]C1(CC(C1=O)([2H])[2H])[2H],C1CC(=O)C1,"2,2,4,4-tetradeuteriocyclobutan-1-one",0.0
+71309869,75.041,[13CH3][13C](=O)[13CH]=O,CC(=O)C=O,"2-oxo(1,2,3-13C3)propanal",-0.4
+71317205,128.27,[2H]C(=O)C([2H])([2H])C([2H])([2H])C([2H])([2H])C([2H])([2H])C([2H])([2H])C([2H])([2H])[2H],CCCCCCC=O,"1,2,2,3,3,4,4,5,5,6,6,7,7,7-tetradecadeuterioheptan-1-one",2.3
+71317235,112.23,[2H]C(=O)C([2H])([2H])C([2H])([2H])C([2H])([2H])C([2H])([2H])C([2H])([2H])[2H],CCCCCC=O,"1,2,2,3,3,4,4,5,5,6,6,6-dodecadeuteriohexan-1-one",1.8
+71339627,151.08,C[Se]CCC=O,C[Se]CCC=O,3-methylselanylpropanal,
+71346176,70.05,C(=O)C#CO,C(=O)C#CO,3-hydroxyprop-2-ynal,0.2
+71353076,151.92,CC=O.[Ag+],CC=O.[Ag+],silver acetaldehyde,
+71361688,104.06,C(=O)C(C=O)(O)O,C(=O)C(C=O)(O)O,"2,2-dihydroxypropanedial",-2.0
+71368973,114.19,CCC[C@H](CC)C=O,CCCC(CC)C=O,(2S)-2-ethylpentanal,2.0
+71374525,108.09,C(C=O)C=O.O.O,C(C=O)C=O.O.O,propanedial;dihydrate,
+71374526,90.08,C(C=O)C=O.O,C(C=O)C=O.O,propanedial;hydrate,
+71391337,130.14,CCC=O.O.O.O.O,CCC=O.O.O.O.O,propanal;tetrahydrate,
+71775098,57.03,C(=O)[C+]=O,C(=O)[C+]=O,2-oxoacetaldehyde,-0.4
+75488610,88.08,C1CC1(C=O)F,C1CC1(C=O)F,1-fluorocyclopropane-1-carbaldehyde,0.4
+78067716,119.15,C(C=O)C(O[Si])F,C(C=O)C(O[Si])F,,
+83853779,122.11,CC(CCC=O)(F)F,CC(CCC=O)(F)F,"4,4-difluoropentanal",1.1
+84647635,108.09,CC(C(C=O)F)F,CC(C(C=O)F)F,"2,3-difluorobutanal",0.9
+84647636,108.09,C(CC(F)F)C=O,C(CC(F)F)C=O,"4,4-difluorobutanal",0.9
+84647637,108.09,CC(=O)CC(F)F,CC(=O)CC(F)F,"4,4-difluorobutan-2-one",0.7
+85583149,165.10,CC(=O)CC[Se]C,CC(=O)CC[Se]C,4-methylselanylbutan-2-one,
+85612491,165.06,C(C=O)[Se]CC=O,C(C=O)[Se]CC=O,2-(2-oxoethylselanyl)acetaldehyde,
+85618084,61.06,C(C=[OH+])O,C(C=[OH+])O,2-hydroxyethylideneoxidanium,-0.9
+85655730,142.15,C(CC(=O)CCC=O)C=O,C(CC(=O)CCC=O)C=O,4-oxoheptanedial,-1.3
+85782230,98.10,COCC#CC=O,COCC#CC=O,4-methoxybut-2-ynal,0.0
+85826507,237.30,CC[Ge](CC)(CCC(=O)C)Cl,CC[Ge](CC)(CCC(=O)C)Cl,4-[chloro(diethyl)germyl]butan-2-one,
+85836815,94.11,CC(=O)C.O.O,CC(=O)C.O.O,propan-2-one;dihydrate,
+85882177,57.07,[CH2+]CC=O,[CH2+]CC=O,propanal,0.6
+85968546,118.13,CC(=O)CC(=O)C.O,CC(=O)CC(=O)C.O,"pentane-2,4-dione;hydrate",
+86164256,75.09,C(CO)C=[OH+],C(CO)C=[OH+],3-hydroxypropylideneoxidanium,-1.0
+86171938,167.98,C(C=O)[As](=O)(O)O,C(C=O)[As](=O)(O)O,2-oxoethylarsonic acid,
+86217377,94.07,C(=O)C#CC#CO,C(=O)C#CC#CO,"5-hydroxypenta-2,4-diynal",0.6
+86590524,108.14,CC(=O)C.CO.O,CC(=O)C.CO.O,methanol;propan-2-one;hydrate,
+86644212,124.18,CC#CCCCCC=O,CC#CCCCCC=O,oct-6-ynal,1.6
+86644797,185.99,CC(=O)C.I,CC(=O)C.I,propan-2-one;hydroiodide,
+86736269,144.21,CCC(=O)CC.CC(=O)C,CCC(=O)CC.CC(=O)C,pentan-3-one;propan-2-one,
+87118020,106.08,C#CC(=O)C(=O)C#C,C#CC(=O)C(=O)C#C,"hexa-1,5-diyne-3,4-dione",0.6
+87161184,108.09,CCC(=O)C(F)F,CCC(=O)C(F)F,"1,1-difluorobutan-2-one",1.3
+87273759,140.10,C(CF)C(C(C=O)F)F,C(CF)C(C(C=O)F)F,"2,3,5-trifluoropentanal",1.2
+87300787,290.3,C(CC=O)CC=O.[Os],C(CC=O)CC=O.[Os],osmium;pentanedial,
+87641887,99.18,CCC(C=O)[Si],CCC(C=O)[Si],,
+87670370,140.06,C(=O)C(C(C(=O)F)F)F,C(=O)C(C(C(=O)F)F)F,"2,3-difluoro-4-oxobutanoyl fluoride",0.6
+87769700,112.55,CC(=O)C.O.Cl,CC(=O)C.O.Cl,propan-2-one;hydrate;hydrochloride,
+87816186,154.09,C(C(C(C(=O)C=O)F)F)F,C(C(C(C(=O)C=O)F)F)F,"3,4,5-trifluoro-2-oxopentanal",0.8
+87841889,102.09,CC(=O)C(=[O+][O-])C,CC(=O)C(=[O+][O-])C,oxido(3-oxobutan-2-ylidene)oxidanium,-1.0
+87944034,138.16,C(CC#CCCC=O)C=O,C(CC#CCCC=O)C=O,oct-4-ynedial,0.1
+87985460,162.49,C(=O)C(=O)C(F)(F)F.Cl,C(=O)C(=O)C(F)(F)F.Cl,"3,3,3-trifluoro-2-oxopropanal;hydrochloride",
+88107591,136.10,C(C=O)C(CC=O)(F)F,C(C=O)C(CC=O)(F)F,"3,3-difluoropentanedial",-0.2
+88107593,136.10,CCC(C(=O)C=O)(F)F,CCC(C(=O)C=O)(F)F,"3,3-difluoro-2-oxopentanal",1.2
+88107892,118.11,C(C=O)C(CC=O)F,C(C=O)C(CC=O)F,3-fluoropentanedial,-0.5
+88107893,118.11,CCC(C(=O)C=O)F,CCC(C(=O)C=O)F,3-fluoro-2-oxopentanal,0.9
+88111403,118.13,C(CC=O)CC=O.O,C(CC=O)CC=O.O,pentanedial;hydrate,
+88138755,108.09,C(CF)C(C=O)F,C(CF)C(C=O)F,"2,4-difluorobutanal",0.8
+88146072,160.17,CC(=O)O.C(CC=O)CC=O,CC(=O)O.C(CC=O)CC=O,acetic acid;pentanedial,
+88244097,144.01,CC(=O)C[C-]=O.[Co],CC(=O)C[C-]=O.[Co],"butane-1,3-dione;cobalt",
+88339824,136.58,CC(=O)CC(=O)C.Cl,CC(=O)CC(=O)C.Cl,"pentane-2,4-dione;hydrochloride",
+88360860,160.17,C(CC=O)CC=O.C(=O)(N)N,C(CC=O)CC=O.C(=O)(N)N,pentanedial;urea,
+88404419,122.07,C(=O)C(C(C=O)F)F,C(=O)C(C(C=O)F)F,"2,3-difluorobutanedial",0.0
+88415844,84.07,C1C(C1=O)C=O,C1C(C1=O)C=O,2-oxocyclopropane-1-carbaldehyde,-0.6
+88422278,247.97,CC(=O)COI(=O)(=O)=O,CC(=O)COI(=O)(=O)=O,2-oxopropyl periodate,-1.0
+88490059,132.13,C(CCC(=O)F)CC=O,C(CCC(=O)F)CC=O,6-oxohexanoyl fluoride,0.3
+88559639,101.12,[2H]C(C(=O)C)C(=O)C,CC(=O)CC(=O)C,"3-deuteriopentane-2,4-dione",0.4
+88594086,197.96,CC(=O)C(=O)I,CC(=O)C(=O)I,2-oxopropanoyl iodide,0.5
+88652912,134.05,C(=O)C(F)(F)F.O.O,C(=O)C(F)(F)F.O.O,"2,2,2-trifluoroacetaldehyde;dihydrate",
+88704216,132.16,CCC=O.CC=O.C=O,CCC=O.CC=O.C=O,acetaldehyde;formaldehyde;propanal,
+88728451,346.07,C(=O)C(C(C(F)(F)F)(F)F)(F)F.C(=O)C(C(F)(F)F)(F)F,C(=O)C(C(C(F)(F)F)(F)F)(F)F.C(=O)C(C(F)(F)F)(F)F,"2,2,3,3,4,4,4-heptafluorobutanal;2,2,3,3,3-pentafluoropropanal",
+88925175,138.99,CC(=O)C.Br,CC(=O)C.Br,propan-2-one;hydrobromide,
+89298719,132.05,C(C=O)C(C=O)P=O,C(C=O)C(C=O)P=O,2-phosphorosobutanedial,-1.7
+90329731,118.13,C(CCOO)CC=O,C(CCOO)CC=O,5-hydroperoxypentanal,-0.3
+90659183,166.11,C[Se+](C)CCC=O,C[Se+](C)CCC=O,dimethyl(3-oxopropyl)selanium,
+90740107,47.07,[2H]C([2H])C(=O)[2H],CC=O,"1,2,2-trideuterioethanone",-0.3
+90915481,164.04,C(P)PC(=O)C(=O)C=O,C(P)PC(=O)C(=O)C=O,"2,3-dioxo-3-(phosphanylmethylphosphanyl)propanal",-0.7
+91095227,89.11,[2H]OCCCC=O,C(CC=O)CO,4-deuteriooxybutanal,-0.7
+91126662,88.04,C(=O)C(=C=O)F,C(=O)C(=C=O)F,2-fluoro-3-oxoprop-2-enal,0.3
+91298647,82.06,C#CC(=O)C=O,C#CC(=O)C=O,2-oxobut-3-ynal,0.1
+91306057,128.13,CC(=O)C(=O)CCC=O,CC(=O)C(=O)CCC=O,"4,5-dioxohexanal",-1.0
+91691381,165.06,CC(=O)[Se]CC=O,CC(=O)[Se]CC=O,Se-(2-oxoethyl) ethaneselenoate,
+91704473,151.08,CC(=O)C[Se]C,CC(=O)C[Se]C,1-methylselanylpropan-2-one,
+98007652,76.07,C[C@@H](C=O)F,CC(C=O)F,(2S)-2-fluoropropanal,0.5
+98007653,76.07,C[C@H](C=O)F,CC(C=O)F,(2R)-2-fluoropropanal,0.5
+100972522,71.10,[2H]C1(CC1)C=O,C1CC1C=O,1-deuteriocyclopropane-1-carbaldehyde,0.2
+101264834,59.04,[2H]C(=O)C=O,C(=O)C=O,2-deuterio-2-oxoacetaldehyde,-0.4
+102492303,110.11,C#CCCC(=O)C=O,C#CCCC(=O)C=O,2-oxohex-5-ynal,0.1
+117064417,65.11,[2H]C([2H])([2H])[13C](=O)C([2H])([2H])[2H],CC(=O)C,"1,1,1,3,3,3-hexadeuterio(213C)propan-2-one",-0.1
+118437747,128.13,CC(=O)CCC(=O)C=O,CC(=O)CCC(=O)C=O,"2,5-dioxohexanal",-0.8
+121232830,43.053,C[11CH]=O,CC=O,acetaldehyde,-0.3
+121318252,136.10,C(CF)C(C(=O)C=O)F,C(CF)C(C(=O)C=O)F,"3,5-difluoro-2-oxopentanal",0.7
+122360875,144.09,C(CC(F)(F)F)C=O.O,C(CC(F)(F)F)C=O.O,"4,4,4-trifluorobutanal;hydrate",
+123259615,90.10,CC[C@H](C=O)F,CCC(C=O)F,(2R)-2-fluorobutanal,1.0
+123298771,90.08,CC(C=O)OO,CC(C=O)OO,2-hydroperoxypropanal,-0.5
+123503923,110.07,C(=O)C(=C=C=O)C=O,C(=O)C(=C=C=O)C=O,2-(2-oxoethenylidene)propanedial,-0.8
+123620133,88.14,C(=O)C(=O)[SiH3],C(=O)C(=O)[SiH3],2-oxo-2-silylacetaldehyde,
+123634764,142.11,C(C=O)C(=O)C(=O)CC=O,C(C=O)C(=O)C(=O)CC=O,"3,4-dioxohexanedial",-1.1
+123692441,144.16,C(=O)C(=O)C(=O)C(=O)[SiH3],C(=O)C(=O)C(=O)C(=O)[SiH3],"2,3,4-trioxo-4-silylbutanal",
+123864038,118.11,CC(C=O)C(=O)CF,CC(C=O)C(=O)CF,4-fluoro-2-methyl-3-oxobutanal,0.5
+129628380,138.22,[CH2-]CCC[CH-]C=O.[Ca+2],[CH2-]CCC[CH-]C=O.[Ca+2],calcium hexanal,
+129652663,86.12,C(=O)C=[Si]=O,C(=O)C=[Si]=O,2-oxosilylideneacetaldehyde,
+129655331,250.1,C(CC=O)C[Ge](Cl)(Cl)Cl,C(CC=O)C[Ge](Cl)(Cl)Cl,4-trichlorogermylbutanal,
+129656074,97.56,[2H]C([2H])([2H])CC=O.Cl,CCC=O.Cl,"3,3,3-trideuteriopropanal;hydrochloride",
+129657749,142.15,CCC(=O)CC(=O)CC=O,CCC(=O)CC(=O)CC=O,"3,5-dioxoheptanal",-0.1
+129669673,125.99,CC(=O)[C-]=O.[Mn],CC(=O)[C-]=O.[Mn],"manganese;propane-1,2-dione",
+129679387,118.09,C(C=O)OOCC=O,C(C=O)OOCC=O,2-(2-oxoethylperoxy)acetaldehyde,-0.8
+129679938,87.10,[2H]CC(=O)C(=O)C,CC(=O)C(=O)C,"1-deuteriobutane-2,3-dione",-1.3
+129690300,74.04,C(=O)C=[O+][O-],C(=O)C=[O+][O-],oxido(2-oxoethylidene)oxidanium,-0.9
+129692085,78.07,C(C=O)O.O,C(C=O)O.O,2-hydroxyacetaldehyde;hydrate,
+129693563,118.11,C(=O)C(=O)C(=O)S,C(=O)C(=O)C(=O)S,"2,3-dioxopropanethioic S-acid",0.1
+129713836,142.20,CC(CC(C)(C)C=O)C=O,CC(CC(C)(C)C=O)C=O,"2,2,4-trimethylpentanedial",1.0
+129714186,76.09,CCC=O.O,CCC=O.O,propanal;hydrate,
+129723522,289.3,C(CC=O)[CH-]C=O.[Os+],C(CC=O)[CH-]C=O.[Os+],osmium(1+);pentanedial,
+129735870,55.05,[2H]C#CC=O,C#CC=O,3-deuterioprop-2-ynal,0.2
+129757018,122.02,C(C=O)[Se],C(C=O)[Se],,
+129760499,156.52,CC(=O)COCl(=O)(=O)=O,CC(=O)COCl(=O)(=O)=O,2-oxopropyl perchlorate,2.5
+129762693,74.08,CCC=[O+][O-],CCC=[O+][O-],oxido(propylidene)oxidanium,-0.4
+129772062,142.15,CCCCC(=O)C(=O)C=O,CCCCC(=O)C(=O)C=O,"2,3-dioxoheptanal",0.9
+129772122,126.03,C(=O)C(C(=O)F)(F)F,C(=O)C(C(=O)F)(F)F,"2,2-difluoro-3-oxopropanoyl fluoride",0.6
+129787119,124.46,C(=O)C=P(=O)Cl,C(=O)C=P(=O)Cl,,-0.7
+129795304,88.00,C(=O)C#P=O,C(=O)C#P=O,2-(oxo-lambda5-phosphanylidyne)acetaldehyde,-0.8
+129809271,98.10,C1[C@H]([C@@H]1C=O)C=O,C1C(C1C=O)C=O,"trans-(1R,2R)-cyclopropane-1,2-dicarbaldehyde",-0.7
+129811307,122.14,CCCC(C=O)F.O,CCCC(C=O)F.O,2-fluoropentanal;hydrate,
+129811382,108.11,CCC(C=O)F.O,CCC(C=O)F.O,2-fluorobutanal;hydrate,
+129813358,168.11,CCC(=O)C(=O)CC(F)(F)F,CCC(=O)C(=O)CC(F)(F)F,"1,1,1-trifluorohexane-3,4-dione",1.1
+129814307,125.67,C(=O)C#C[Ge],C(=O)C#C[Ge],,
+129815538,88.04,C(C=O)C=P,C(C=O)C=P,3-phosphanylidenepropanal,-1.4
+129828960,132.20,CCCCCCC=O.O,CCCCCCC=O.O,heptanal;hydrate,
+129849636,122.59,CCCCC=O.Cl,CCCCC=O.Cl,pentanal;hydrochloride,
+129852453,136.10,CCC(=O)C(=O)C(F)F,CCC(=O)C(=O)C(F)F,"1,1-difluoropentane-2,3-dione",0.9
+129866110,201.46,C(C[C-]=O)[C-]=O.[Ni].[Ni],C(C[C-]=O)[C-]=O.[Ni].[Ni],"butane-1,4-dione;nickel",
+129868119,135.03,C(C=O)C=[Se],C(C=O)C=[Se],3-selanylidenepropanal,
+129868776,192.24,CO[Si](CC(=O)C=O)(OC)OC,CO[Si](CC(=O)C=O)(OC)OC,2-oxo-3-trimethoxysilylpropanal,
+129887072,127.19,C(CC(C=O)[Si])C=O,C(CC(C=O)[Si])C=O,,
+132280979,80.08,CC=O.O.O,CC=O.O.O,acetaldehyde;dihydrate,
+133084038,116.05,C(C=O)C(=O)C=P,C(C=O)C(=O)C=P,3-oxo-4-phosphanylidenebutanal,-1.5
+134344729,106.05,C(C=O)C(=O)OF,C(C=O)C(=O)OF,fluoro 3-oxopropanoate,0.3
+134824400,62.10,[2H]C([2H])C([2H])([2H])C=O,CCC=O,"2,2,3,3-tetradeuteriopropanal",0.6
+134849720,73.11,CCCC=[OH+],CCCC=[OH+],butylideneoxidanium,0.9
+134850102,71.05,C1C(=O)C=[O+]1,C1C(=O)C=[O+]1,oxet-1-ium-3-one,-0.6
+134861881,101.12,C(CC=[OH+])CC=O,C(CC=[OH+])CC=O,5-oxopentylideneoxidanium,-0.5
+134874373,60.03,C(=O)[C]F,C(=O)[C]F,,0.1
+134874374,76.48,C(=O)[C]Cl,C(=O)[C]Cl,,0.3
+134876381,110.09,CC(C(=O)C)[O-].[Na+],CC(C(=O)C)[O-].[Na+],sodium 3-oxobutan-2-olate,
+134892218,53.04,[C-]#CC=O,[C-]#CC=O,prop-2-ynal,0.2
+134943930,104.12,CCC(=O)[C@@H](C)F,CCC(=O)C(C)F,(2R)-2-fluoropentan-3-one,1.2
+135024569,71.10,[CH2+]CCC=O,[CH2+]CCC=O,butanal,0.9
+135037659,70.09,C[C]C(=O)C,C[C]C(=O)C,,0.3
+135043170,87.10,C(CC=O)C[O-],C(CC=O)C[O-],4-oxobutan-1-olate,0.4
+135383201,156.10,C(CC=O)COC(F)(F)F,C(CC=O)COC(F)(F)F,4-(trifluoromethoxy)butanal,1.1
+139213666,185.12,CC(=O)C=O.S.[Se-],CC(=O)C=O.S.[Se-],,
+139242802,70.05,C(=O)[C]C=O,C(=O)[C]C=O,,-0.6
+139264932,137.05,C(C[SeH])C=O,C(C[SeH])C=O,3-selanylpropanal,
+139264936,185.7,C(C[TeH])C=O,C(C[TeH])C=O,3-tellanylpropanal,
+140406429,126.08,C(C(C=O)F)C(F)F,C(C(C=O)F)C(F)F,"2,4,4-trifluorobutanal",1.3
+140759994,114.02,C(=[O+][O-])C(F)(F)F,C(=[O+][O-])C(F)(F)F,"oxido(2,2,2-trifluoroethylidene)oxidanium",0.3
+144339392,92.03,C(=O)C(=O)OF,C(=O)C(=O)OF,fluoro 2-oxoacetate,0.6
+145689578,156.10,CC(=O)C.C(=O)C(F)(F)F,CC(=O)C.C(=O)C(F)(F)F,"propan-2-one;2,2,2-trifluoroacetaldehyde",
+146049027,98.14,C[C@@H]1[C@H](C1C=O)C,CC1C(C1C=O)C,"trans-(2R,3R)-2,3-dimethylcyclopropane-1-carbaldehyde",1.1
+147247143,118.11,CC(C(=O)CC=O)F,CC(C(=O)CC=O)F,4-fluoro-3-oxopentanal,0.4
+148547216,156.14,C(C=O)C(=O)CC(=O)CC=O,C(C=O)C(=O)CC(=O)CC=O,"3,5-dioxoheptanedial",-0.9
+148558374,104.08,C(CC(=O)F)C=O,C(CC(=O)F)C=O,4-oxobutanoyl fluoride,-0.4
+151417103,132.09,CC(C(=O)C(=O)C=O)F,CC(C(=O)C(=O)C=O)F,"4-fluoro-2,3-dioxopentanal",0.3
+151611698,104.08,CC(C(=O)C=O)F,CC(C(=O)C=O)F,3-fluoro-2-oxobutanal,0.4
+151833654,118.11,C(CF)C(=O)CC=O,C(CF)C(=O)CC=O,5-fluoro-3-oxopentanal,-0.1
+152046884,140.06,C(C=O)C(C(=O)F)(F)F,C(C=O)C(C(=O)F)(F)F,"2,2-difluoro-4-oxobutanoyl fluoride",0.4
+152509291,154.09,C(C=O)C(C=O)C(F)(F)F,C(C=O)C(C=O)C(F)(F)F,2-(trifluoromethyl)butanedial,0.2
+154514858,108.04,C(=O)C(=O)C(F)F,C(=O)C(=O)C(F)F,"3,3-difluoro-2-oxopropanal",0.5
+156157929,126.08,C(C=O)C(CF)(F)F,C(C=O)C(CF)(F)F,"3,3,4-trifluorobutanal",0.7
+157184521,196.05,C(=O)C(F)(F)F.C(=O)C(F)(F)F,C(=O)C(F)(F)F.C(=O)C(F)(F)F,"2,2,2-trifluoroacetaldehyde",
+160411361,177.41,C=O.C(=O)C(Cl)(Cl)Cl,C=O.C(=O)C(Cl)(Cl)Cl,"formaldehyde;2,2,2-trichloroacetaldehyde",
+162151924,210.07,CC(=O)C(F)(F)F.C(=O)C(F)(F)F,CC(=O)C(F)(F)F.C(=O)C(F)(F)F,"2,2,2-trifluoroacetaldehyde;1,1,1-trifluoropropan-2-one",
+162393511,60.05,C(=[OH+])C=[OH+],C(=[OH+])C=[OH+],2-oxoniumylideneethylideneoxidanium,-0.4
+162403100,142.50,C(=C=O)[O-].[Rb+],C(=C=O)[O-].[Rb+],2-oxoethenolate;rubidium(1+),
+164017833,120.12,COC[C@@H](CC=O)F,COCC(CC=O)F,(3R)-3-fluoro-4-methoxybutanal,-0.1
+166520939,115.19,[2H]C(CCCCC)C=O,CCCCCCC=O,2-deuterioheptanal,2.3
+170991378,88.07,CC(=O)[13C](=O)[13CH3],CC(=O)C(=O)C,"(1,2-13C2)butane-2,3-dione",-1.3
+172009772,112.08,CC(C=O)(F)F.O,CC(C=O)(F)F.O,"2,2-difluoropropanal;hydrate",
+172212052,144.05,C(=O)C(=O)C(F)(F)F.O,C(=O)C(=O)C(F)(F)F.O,"3,3,3-trifluoro-2-oxopropanal;hydrate",
+173163849,150.07,[H-].C(CC(F)(F)F)C=O.[Na+],[H-].C(CC(F)(F)F)C=O.[Na+],"sodium;hydride;4,4,4-trifluorobutanal",
+173397764,330.06,C(=O)C(F)(F)F.[Th],C(=O)C(F)(F)F.[Th],"thorium;2,2,2-trifluoroacetaldehyde",
+174458309,118.11,C(CC=O)CC(=O)F,C(CC=O)CC(=O)F,5-oxopentanoyl fluoride,0.0
+174621796,144.07,C(=O)C(C(C(F)F)F)F,C(=O)C(C(C(F)F)F)F,"2,3,4,4-tetrafluorobutanal",1.4
+174638624,105.84,B(C(=O)C=O)(F)F,B(C(=O)C=O)(F)F,2-difluoroboranyl-2-oxoacetaldehyde,
+174728040,136.10,CC(CC(=O)C=O)(F)F,CC(CC(=O)C=O)(F)F,"4,4-difluoro-2-oxopentanal",0.6
+176439504,223.95,[C-]#[O+].[C-]#[O+].[C-]#[O+].[CH]([CH][CH][O])C=O.[Fe],[C-]#[O+].[C-]#[O+].[C-]#[O+].[CH]([CH][CH][O])C=O.[Fe],,
+178270791,87.10,C(CC=O)C=[OH+],C(CC=O)C=[OH+],4-oxobutylideneoxidanium,-0.9

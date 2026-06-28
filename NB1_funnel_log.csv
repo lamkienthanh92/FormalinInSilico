@@ -1,0 +1,15 @@
+step,n_remaining,n_removed
+Raw PubChem,1007,0
+F0  Valid SMILES,1007,0
+F1  MW ≤ 200 Da,877,130
+F2  LogP ≤ 1.0,580,297
+F3  ≥2 electrophile groups,287,293
+F4  No enone/acrolein,285,2
+F5  No epoxide/peroxide/nitroso,281,4
+F6  No PAINS/Brenk,248,33
+FA0 No organometallic,217,31
+FA0b No isotope/radical,209,8
+FA1 No mutagenic alert,193,16
+FA2 Low volatility (MW ≥ 60),191,2
+Dedup SMILES,191,0
+Dedup InChIKey,191,0
